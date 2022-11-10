@@ -1,0 +1,960 @@
+Title,Year,Runtime,RT_Score,Genre,Subgenre,Rating,Director,Theatres
+2012,2009,2.38.00,0.39,Action,Sci-fi,PG-13,Roland Emmerich,FALSE
+!Airplane,1980,1.28.00,0.97,Comedy,Romance,PG,"David Zucker, Jerry Zucker, Jim Abrahams",FALSE
+#Alive,2020,1.39.00,0.88,Thriller,Drama,NR,Il Cho,FALSE
+10 Cloverfield Lane,2016,1.45.00,0.90,Sci-Fi,Thriller,PG-13,Dan Trachtenberg,TRUE
+101 Dalmatians,1996,1.43.00,0.41,Adventure,Comedy,G,Stephen Herek,FALSE
+101 Dalmations,1961,1.19.00,0.98,Family,Comedy,G,"Clyde Geronimi, Hamilton Luske, Wolfgang Reitherman",FALSE
+102 Dalmatians,2000,1.40.00,0.31,Adventure,Comedy,G,Kevin Lima,FALSE
+13 Going on 30,2004,1.38.00,0.65,Romance,Fantasy,PG-13,Gary Winick,FALSE
+15 Minutes,2001,2.01.00,0.32,Thriller,Action,R,John Herzfeld,FALSE
+17 Again,2009,1.42.00,0.56,Comedy,Romance,PG-13,Burr Steers,FALSE
+1920 London,2016,2.00.00,,Horror,Mystery,NR,Tinu Suresh Desai,FALSE
+"20,000 Leagues Under the Sea",1997,1.35.00,0.36,Fantasy,Romance,NR,Michael Anderson,FALSE
+"20,000 Leagues Under the Sea",1954,2.07.00,0.90,Adventure,Sci-fi,G,Richard Fleischer,FALSE
+27 Dresses,2008,1.51.00,0.41,Romance,Comedy,PG-13,Anne Fletcher,FALSE
+28 Weeks Later,2007,1.40.00,0.72,Horror,Sci-fi,R,Juan Carlos Fresnadillo,FALSE
+3 Idiots,2009,2.51.00,1.00,Comedy,Romance,PG-13,Rajkumar Hirani,FALSE
+7 Brides for 7 Brothers,1954,1.42.00,0.89,Musical,Romance,G,Stanley Donen,FALSE
+A Beautiful Mind,2001,2.15.00,0.74,Biography,Drama,PG-13,Ron Howard,FALSE
+A Bug’s Life,1998,1.35.00,0.92,Comedy,Family,G,"John Lasseter, Andrew Stanton",FALSE
+A Cinderella Story,2004,1.35.00,0.12,Romance,Family,PG,Mark Rosman,FALSE
+A Connecticut Yankee in King Arthur’s Court,1949,1.46.00,0.44,Fantasy,Comedy,NR,Tay Garnett,FALSE
+A Goofy Movie,1995,1.21.00,0.61,Comedy,Adventure,G,Kevin Lima,FALSE
+A Heavenly Vintage/The Vintner’s Luck,2009,2.00.00,0.44,Fantasy,Drama,R,Niki Caro,FALSE
+A Knight’s Tale,2001,2.12.00,0.59,Adventure,Action,PG-13,Brian Helgeland,FALSE
+A Little Princess,1995,1.37.00,0.97,Family,Drama,G,Alfonso Cuaron,FALSE
+A Midsummer Night’s Dream,1999,1.56.00,0.67,Romance,Fantasy,PG-13,Michael Hoffman,FALSE
+A Night at the Opera,1935,1.31.00,0.97,Comedy,Musical,NR,Sam Wood,FALSE
+A Nightmare on Elm Street,1984,1.31.00,0.95,Horror,Mystery,R,Wes Craven,FALSE
+A Perfect Day,2015,1.46.00,0.71,Drama,War,R,Fernando Leon de Aranoa,FALSE
+A Quiet Place,2018,1.30.00,0.96,Horror,Thriller,PG-13,John Krasinksi,TRUE
+A Voyage to the Moon,1902,00.14.00,1.00,Sci-Fi,Adventure,NR,George Melies,FALSE
+A Walk to Remember,2002,1.42.00,0.27,Romance,Drama,PG,Adam Shankman,FALSE
+About Time,2013,2.03.00,0.70,Romance,Fantasy,R,Richard Curtis,FALSE
+Ace Ventura: Pet Detective,1994,1.26.00,0.48,Comedy,Mystery,PG-13,Tom Shadyac,FALSE
+Adaptation.,2002,1.54.00,0.91,Comedy,Drama,R,Spike Jonze,FALSE
+Addams Family Values,1993,1.34.00,0.74,Comedy,Fantasy,PG-13,Barry Sonnenfield,FALSE
+Air Bud,1997,1.38.00,0.45,Family,Comedy,PG,Charles Martin Smith,FALSE
+Akeelah and the Bee,2006,1.52.00,0.85,Drama,,PG,Doug Atchinson,FALSE
+Aladdin,1992,1.30.00,0.95,Musical,Fantasy,G,"Ron Clements, John Musker",FALSE
+Aladdin and the King of Thieves,1996,1.21.00,0.33,Adventure,Family,G,Tad Stones,FALSE
+Alice in Wonderland,2010,1.48.00,0.51,Fantasy,Family,PG,Tim Burton,FALSE
+Alice in Wonderland,1951,1.15.00,0.84,Musical,Fantasy,G,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",FALSE
+Alien,1979,1.57.00,0.98,Sci-Fi,Horror,R,Ridley Scott,FALSE
+Alien Resurrection,1997,1.56.00,0.53,Sci-Fi,,R,Jean-Pierre Jeunet,FALSE
+Alien vs. Predator,2004,1.41.00,0.22,Sci-Fi,Horror,PG-13,Paul W.S. Anderson,FALSE
+Alien3,1992,1.54.00,0.47,Sci-Fi,Horror,R,David Fincher,FALSE
+Aliens,1986,2.34.00,0.98,Action,Sci-fi,R,James Cameron,FALSE
+Aliens in the Attic,2009,1.26.00,0.34,Sci-Fi,Family,PG,John Schultz,FALSE
+All About Steve,2009,1.39.00,0.06,Comedy,,PG-13,Phil Traill,FALSE
+All Dogs Go to Heaven,1989,1.29.00,0.44,Musical,Family,G,Don Bluth,FALSE
+Always Be My Maybe,2019,1.41.00,0.89,Romance,Comedy,PG-13,Nahnatchka Kahn,FALSE
+Amazing Grace,2006,1.51.00,0.67,Drama,Romance,PG,Michael Apted,FALSE
+Amelie,2001,2.02.00,0.89,Romance,Comedy,R,"Jean-Pierre Jeunet, Guillame, Laurant",FALSE
+American Psycho,2000,1.44.00,0.68,Horror,Thriller,R,Mary Harron,FALSE
+An American Tail,1986,1.20.00,0.72,Family,Musical,G,Don Bluth,FALSE
+Anastasia,1997,1.34.00,0.86,Musical,Family,G,"Don Bluth, Gary Goldman",FALSE
+Anastasia,1956,1.45.00,0.93,Drama,Romance,NR,Anatole Litvak,FALSE
+Angels in the Endzone,1997,1.30.00,0.28,Drama,Sport,G,Gary Nadeau,FALSE
+Angels in the Outfield,1994,1.43.00,0.32,Fantasy,Comedy,PG,William Dear,FALSE
+Animals are Beautiful People,1974,1.32.00,0.90,Documentary,World Cinema,G,Jamie Uys,FALSE
+Annabelle Comes Home,2019,1.46.00,0.64,Horror,Mystery,R,Gary Dauberman,FALSE
+Annabelle: Creation,2017,1.49.00,0.70,Horror,Thriller,R,David F. Sandberg,TRUE
+Anne of Avonlea,1987,3.50.00,0.83,Drama,Romance,G,Kevin Sullivan,FALSE
+Anne of Green Gables,1985,3.19.00,1.00,Drama,,G,Kevin Sullivan,FALSE
+Annie,1982,2.07.00,0.49,Musical,Family,PG,John Huston,FALSE
+Annihilation,2018,1.55.00,0.88,Sci-Fi,Horror,R,Alex Garland,TRUE
+Another Cinderella Story,2008,1.32.00,0.74,Romance,Musical,PG,Damon Santostefano,FALSE
+Ant-Man and the Wasp,2018,1.58.00,0.87,Action,Adventure,PG-13,Peyton Reed,FALSE
+Apostle,2018,2.10.00,0.79,Horror,Thriller,NR,Gareth Evans,FALSE
+Aquaman,2018,2.24.00,0.65,Action,Adventure,PG-13,James Wan,FALSE
+Are We There Yet?,2005,1.35.00,0.12,Comedy,Family,PG,Brian Levant,FALSE
+Around the World in 80 Days,2004,2.00.00,0.32,Action,Comedy,PG,Frank Coraci,FALSE
+Around the World in 80 Days,1956,2.55.00,0.70,Adventure,Romance,G,Michael Anderson,FALSE
+Arrival,2016,1.56.00,0.95,Sci-Fi,Thriller,PG-13,Denis Villanueve,TRUE
+Arsenic and Old Lace,1944,1.58.00,0.84,Comedy,Crime,NR,Frank Capra,FALSE
+As Above So Below,2014,1.33.00,0.27,Horror,Thriller,R,John Erick Dowdle,TRUE
+Astro Boy,2009,1.34.00,0.50,Sci-Fi,Family,PG,David Bowers,FALSE
+At Middleton,2013,1.48.00,0.61,Romance,Comedy,R,Adam Rodgers,FALSE
+August Rush,2007,1.54.00,0.37,Romance,Drama,PG,Kirsten Sheridan,FALSE
+Autumn in New York,2000,1.45.00,0.19,Romance,Drama,PG-13,Joan Chen,FALSE
+Avengers: Age of Ultron,2015,2.21.00,0.76,Action,Adventure,PG-13,Joss Whedon,TRUE
+Avengers: Endgame,2019,3.02.00,0.94,Action,Sci-fi,PG-13,"Anthony Russo, Joe Russo",TRUE
+Avengers: Infinity War,2018,2.29.00,0.85,Action,Sci-fi,PG-13,"Anthony Russo, Joe Russo",TRUE
+Babar: The Movie,1989,1.19.00,0.73,Adventure,,G,Alan Bunce,FALSE
+Babe,1995,1.31.00,0.97,Family,Fantasy,G,Chris Noonan,FALSE
+Back to the Future,1985,1.56.00,0.97,Sci-Fi,Comedy,PG,Robert Zemeckis,FALSE
+Bad Trip,2021,1.24.00,0.78,Comedy,Drama,R,Kitao Sakurai,FALSE
+Bambi,1942,1.10.00,0.91,Adventure,Drama,G,"Clyde Geronimi, David Hand, James Algar, Samuel Armstrong, Paul Satterfield, Bill Roberts, Graham Heid, Arthur Davis, Norman Wright",FALSE
+Bangkok Dangerous,2008,1.45.00,0.09,Action,Thriller,R,Danny Pang Phat,FALSE
+Barbarian,2022,1.43.00,0.92,Horror,Mystery,R,Zach Cregger,TRUE
+Barbie Birthday Party at Walt Disney World Epcot ‘94,1994,00.30.00,,Short,,G,Susan Kosar Beery,FALSE
+Basic Instinct,1992,2.08.00,0.57,Thriller,Mystery,R,Paul Verhoeven,FALSE
+Batman Begins,2005,2.20.00,0.84,Action,Fantasy,PG-13,Christopher Nolan,FALSE
+Batman Forever,1995,2.02.00,0.39,Action,Adventure,PG-13,Joel Schumacher,FALSE
+Batman Returns,1992,2.06.00,0.81,Action,Adventure,PG-13,Tim Burton,FALSE
+Beauty and the Beast,2017,2.19.00,0.71,Musical,Romance,PG,Bill Condon,FALSE
+Beauty and the Beast,1991,1.24.00,0.94,Musical,Fantasy,G,"Gary Trousdale, Kirk Wise",FALSE
+Beauty and the Beast: the Enchanted Christmas,1997,1.12.00,0.13,Family,Fantasy,G,Andy Knight,FALSE
+Because of Winn-Dixie,2005,1.46.00,0.55,Family,Drama,PG,Wayne Wang,FALSE
+Becoming Jane,2007,2.00.00,0.58,Romance,Drama,PG,Julian Jarrold,FALSE
+Bedknobs and Broomsticks,1971,2.19.00,0.67,Fantasy,Family,G,Robert Stevenson,FALSE
+Bedtime for Bonzo,1951,1.24.00,0.64,Comedy,Slapstick,NR,Fred de Cordova,FALSE
+Beethoven,1992,1.27.00,0.31,Family,Comedy,PG,Brian Levant,FALSE
+Beetlejuice,1988,1.37.00,0.85,Fantasy,Comedy,PG,Tim Burton,FALSE
+Bend it Like Beckham,2002,1.52.00,0.66,Sport,Comedy,PG-13,Gurinder Chadha,FALSE
+Benji,1974,1.27.00,0.86,Adventure,Family,G,Joe Camp,FALSE
+Benny & Joon,1993,1.38.00,0.76,Romance,Drama,PG,Jeremiah S. Chechik,FALSE
+Big Fat Liar,2002,1.28.00,0.45,Comedy,Family,PG,Shawn Levy,FALSE
+Big Red,1962,1.29.00,0.46,Family,Adventure,NR,Norman Tokar,FALSE
+Bill and Ted’s Bogus Journey,1991,1.33.00,0.56,Sci-Fi,Comedy,PG,Peter Hewitt,FALSE
+Bill and Ted’s Excellent Adventure,1989,1.30.00,0.82,Comedy,Sci-fi,PG,Stephen Herek,FALSE
+Bird Box,2018,2.04.00,0.65,Horror,Sci-fi,R,Susanne Bier,FALSE
+Birds of Prey,2020,1.49.00,0.79,Action,Superhero,R,Cathy Yan,FALSE
+Black Beauty,1971,1.46.00,0.53,Drama,Family,G,James Hill,FALSE
+Black Panther,2018,2.15.00,0.96,Action,Adventure,PG-13,Ryan Coogler,TRUE
+Blade Runner,1982,1.50.00,0.89,Sci-Fi,Action,R,Ridley Scott,FALSE
+Blood Glacier,2013,1.38.00,0.45,Horror,,NR,Marvin Kren,FALSE
+Blood Red Sky,2021,2.01.00,0.80,Thriller,Action,R,Peter Thorwarth,FALSE
+Bluebeard,2017,1.57.00,0.57,Thriller,Psychological Thriller,NR,Su-yeon Lee,FALSE
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,1.24.00,0.90,Comedy,Mockumentary,R,Larry Charles,FALSE
+Born Free,1966,1.35.00,0.94,Adventure,Family,PG,"James Hill, Tom McGowan",FALSE
+Boundaries,2018,1.44.00,0.49,Drama,Comedy,R,Shana Feste,FALSE
+Bram Stoker’s Dracula,1992,2.07.00,0.77,Horror,Fantasy,R,Francis Ford Coppola,FALSE
+Brave,2012,1.33.00,0.79,Family,Adventure,PG,"Brenda Chapman, Mark Andrews",FALSE
+Brazil,1985,2.12.00,0.98,Sci-Fi,Fantasy,R,Terry Gilliam,FALSE
+Breakfast at Tiffany’s,1961,1.55.00,0.89,Romance,Comedy,G,Blake Edwards,FALSE
+Breaking and Entering,2006,2.00.00,0.34,Drama,Romance,R,Anthony Minghella,FALSE
+Bride and Prejudice,2004,1.51.00,0.64,Romance,Musical,PG-13,Gurinder Chadha,FALSE
+Bridget Jones’ Diary,2001,1.37.00,0.80,Romance,Comedy,R,Sharon Maguire,FALSE
+Brigadoon,1954,1.48.00,0.86,Musical,Romance,G,Vincente Minnelli,FALSE
+Bringing Out the Dead,1999,2.01.00,0.73,Drama,,R,Martin Scorsese,FALSE
+Brother Bear,2003,1.25.00,0.37,Family,Adventure,G,"Aaron Blaise, Robert Walker",FALSE
+Bruce Almighty,2003,1.41.00,0.48,Comedy,Fantasy,PG-13,Tom Shadyac,FALSE
+Burn Your Maps,2016,1.42.00,0.67,Adventure,Comedy Drama,PG-13,Jordan Roberts,FALSE
+Cabin in the Woods,2012,1.35.00,0.92,Horror,Comedy,R,Drew Goddard,FALSE
+Calamity Jane,1953,1.37.00,0.73,Musical,Western,NR,David Butler,FALSE
+Call,2020,1.52.00,1.00,Thriller,Mystery,NR,Lee Chung-hyeon,FALSE
+Cam,2018,1.35.00,0.93,Horror,Mystery,NR,Daniel Goldhaber,FALSE
+Camp Rock,2008,1.37.00,0.48,Comedy,Musical,G,Matthew Diamond,FALSE
+Candyman,1992,1.39.00,0.79,Horror,Fantasy,R,Bernard Rose,FALSE
+Captain America: Civil War,2016,2.28.00,0.90,Action,Adventure,PG-13,Anthony Russo,FALSE
+Captain America: The First Avenger,2011,2.04.00,0.79,Action,Adventure,PG-13,Joe Johnston,FALSE
+Captain Fantastic,2016,1.58.00,0.83,Drama,Comedy Drama,R,Matt Ross,FALSE
+Captive State,2019,1.50.00,0.43,Sci-Fi,Thriller,PG-13,Rupert Wyatt,FALSE
+Cars,2006,1.57.00,0.73,Family,Comedy,G,John Lasseter,FALSE
+Cars 2,2011,1.46.00,0.39,Comedy,Family,G,John Lasseter,FALSE
+Casper,1995,1.36.00,0.51,Comedy,Drama,PG,Brad Silberling,FALSE
+Catch Me if You Can,2002,2.21.00,0.96,Biography,Crime,PG-13,Steven Spielberg,FALSE
+Chappie,2015,2.00.00,0.32,Sci-Fi,Action,R,Neil Blomkamp,FALSE
+Chariots of Fire,1981,2.03.00,0.83,Drama,,PG,Hugh Hudson,FALSE
+Charlie and the Chocolate Factory,2005,1.55.00,0.83,Fantasy,Family,PG,Tim Burton,FALSE
+Charlie’s Angels,2000,1.38.00,0.68,Action,Comedy,PG-13,McG,FALSE
+Charlotte’s Web,1973,1.34.00,0.76,Family,Musical,G,"Iwao Takamoto, Charles August Nichols",FALSE
+Cheaper by the Dozen,2003,1.46.00,0.24,Family,Comedy,PG,Shawn Levy,FALSE
+Chennai Express,2013,2.21.00,0.47,Romance,Action,NR,Rohit Shetty,FALSE
+Chicken Little,2005,1.21.00,0.36,Sci-Fi,Comedy,G,Mark Dindal,FALSE
+Chitty Chitty Bang Bang,1968,2.24.00,0.69,Musical,Fantasy,G,Ken Hughes,FALSE
+Chocolat,2000,2.01.00,0.63,Drama,Romance,PG-13,Lasse Hallstrom,FALSE
+Christian Mingle,2014,1.43.00,0.31,Romance,Comedy,PG,Corbin Bernsen,FALSE
+Christmas in Connecticut,1945,1.42.00,0.89,Comedy,Romance,NR,Peter Godfrey,FALSE
+Cinderella,2015,1.52.00,0.83,Romance,Fantasy,PG,Kenneth Branagh,FALSE
+Cinderella,1950,1.15.00,0.97,Musical,Fantasy,G,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",FALSE
+Cinderella,1997,1.28.00,0.86,Musical,Fantasy,G,Robert Iscove,FALSE
+Cinderella II: Dreams Come True,2002,1.13.00,0.11,Family,,G,John Kafka,FALSE
+Cirque Du Freak: The Vampire’s Assistant,2009,1.49.00,0.37,Fantasy,Action,PG-13,Paul Weitz,FALSE
+Cleopatra,1963,3.53.00,0.56,Romance,War,G,Joseph L. Mankiewicz,FALSE
+Closer to the Moon,2013,1.57.00,0.46,Drama,History,NR,Nae Caranfil,FALSE
+Cloudy With A Chance of Meatballs,2009,1.30.00,0.86,Family,Comedy,PG,"Phil Lord, Chris Miller",TRUE
+Cloverfield,2008,1.25.00,0.78,Sci-Fi,Horror,PG-13,Matt Reeves,FALSE
+Clue,1985,1.37.00,0.68,Mystery,Crime,PG,Jonathan Lynn,FALSE
+Clueless,1995,1.37.00,0.81,Comedy,Romance,PG-13,Amy Heckerling,FALSE
+Color Out of Space,2019,1.51.00,0.86,Horror,Sci-fi,NR,Richard Stanley,TRUE
+Con Air,1997,2.03.00,0.57,Action,Thriller,R,Simon West,FALSE
+Constantine,2005,2.01.00,0.46,Horror,Fantasy,R,Francis Lawrence,FALSE
+Cool Runnings,1993,1.38.00,0.76,Sport,Comedy,PG,Jon Turteltaub,FALSE
+Corpse Bride,2005,1.14.00,0.84,Musical,Dark Fantasy,PG,"Tim Burton, Mike Johnson",FALSE
+Crimson Peak,2015,1.59.00,0.73,Horror,Fantasy,R,Guillermo del Toro,FALSE
+Crocodile Dundee,1986,1.44.00,0.89,Comedy,Adventure,PG-13,"Paul Hogan, John Cornell, Ken Shadie",FALSE
+Cruel Intentions,1999,1.37.00,0.54,Romance,Drama,R,Roger Kumble,FALSE
+Davy Crockett and the River Pirates,1956,1.21.00,0.70,Western,Adventure,G,Norman Foster,FALSE
+Deadpool,2016,1.48.00,0.85,Action,Adventure,R,Tim Miller,TRUE
+Death Becomes Her,1992,1.44.00,0.54,Fantasy,Comedy,PG-13,Robert Zemeckis,FALSE
+Death Note,2017,1.41.00,0.37,Thriller,Horror,R,Adam Wingard,FALSE
+Deathgasm,2015,1.30.00,0.88,Horror,Comedy,NR,Jason Lei Howden,FALSE
+Deep Blue Sea,1999,1.45.00,0.60,Sci-Fi,Horror,R,Renny Harlin,FALSE
+Dinner for Schmucks,2010,1.54.00,0.42,Comedy,Comedy of Manners,PG-13,Jay Roach,FALSE
+Dinosaur,2000,1.22.00,0.64,Adventure,Family,PG,"Ralph Zondag, Eric Leighton",FALSE
+District 9,2009,1.52.00,0.90,Sci-Fi,,R,Neil Blomkamp,FALSE
+Doctor Strange,2016,1.55.00,0.89,Action,Adventure,PG-13,Scott Derrickson,TRUE
+Doctor Who,1996,1.29.00,0.48,Sci-Fi,Adventure,PG,Geoffrey Sax,FALSE
+Dolemite Is My Name,2019,1.57.00,0.97,Drama,Comedy,R,Craig Brewer,FALSE
+Don’t Look Up,2021,2.25.00,0.56,Comedy,Political Satire,R,Adam McKay,FALSE
+Donnie Darko,2001,1.53.00,0.87,Sci-Fi,Fantasy,R,Richard Kelly,FALSE
+Doom,2005,1.53.00,0.59,Sci-Fi,Action,R,Andrzej Bartkowiak,FALSE
+Dr. Dolittle,1998,1.30.00,0.41,Comedy,Family,PG-13,Betty Thomas,FALSE
+Dr. Strangelove Or: How I Learned to Stop Worrying and Love the Bomb,1964,1.35.00,0.98,Comedy,War,PG,Stanley Kubrick,FALSE
+Dracula Untold,2014,1.32.00,0.25,Horror,Fantasy,PG-13,Gary Shore,TRUE
+Drive Angry,2011,1.45.00,0.47,Action,Thriller,R,Patrick Lussier,FALSE
+Drop Dead Gorgeous,1999,1.37.00,0.47,Comedy,Dark Comedy,PG-13,Michael Patrick Jann,FALSE
+Drumline,2002,1.58.00,0.82,Romance,Comedy,PG-13,Charles Stone III,FALSE
+Duck Soup,1933,1.08.00,0.91,Comedy,Musical,NR,Leo McCarey,FALSE
+Dumb and Dumber,1994,1.47.00,0.68,Comedy,,PG-13,Peter Farrelly,FALSE
+Dumbo,1941,1.04.00,0.98,Adventure,Drama,G,"Ben Sharpsteen, Wilfred Jackson, Samuel Armstrong, Norm Ferguson, Bill Roberts, Jack Kinney, John Elliote",FALSE
+Dune,2021,2.35.00,0.83,Sci-Fi,Adventure,PG-13,Denis Villanueve,TRUE
+Dune,1984,2.17.00,0.42,Sci-Fi,Adventure,PG-13,David Lynch,FALSE
+Dunkirk,2017,1.46.00,0.92,War,Action,PG-13,Christopher Nolan,TRUE
+Duplex,2003,1.29.00,0.35,Comedy,Dark Comedy,PG-13,Danny DeVito,FALSE
+Dust,2001,2.07.00,0.20,Drama,Western,R,Milcho Manchevski,FALSE
+Easy A,2010,1.32.00,0.85,Comedy,Romance,PG-13,Will Gluck,FALSE
+Edward Scissorhands,1990,1.45.00,0.90,Fantasy,Romance,PG-13,Tim Burton,FALSE
+Eight Below,2006,2.00.00,0.73,Adventure,Family,PG,Frank Marshall,FALSE
+El Camino: A Breaking Bad Movie,2019,2.02.00,0.92,Crime,Drama,R,Vince Galligan,FALSE
+Elf,2003,1.37.00,0.85,Family,Comedy,PG,Jon Favreau,FALSE
+Eli,2019,1.38.00,0.48,Horror,,R,Ciaran Foy,FALSE
+Ella Enchanted,2004,1.41.00,0.50,Fantasy,Comedy,PG,Tommy O’Haver,FALSE
+Emma,1996,2.01.00,0.83,Romance,Drama,PG,Douglas McGrath,FALSE
+Empire Records,1994,1.30.00,0.31,Drama,Comedy,PG-13,Allan Moyle,FALSE
+Enchanted,2007,1.47.00,0.93,Musical,Family,PG,Kevin Lima,FALSE
+Encino Man,1992,1.28.00,0.15,Comedy,Teen,PG,Les Mayfield,FALSE
+Ender’s Game,2013,1.54.00,0.62,Sci-Fi,Action,PG-13,Gavin Hood,TRUE
+Enemy,2013,1.35.00,0.71,Thriller,Mystery,R,Denis Villanueve,FALSE
+Enola Holmes,2020,2.03.00,0.91,Mystery,Crime,PG-13,Harry Bradbeer,FALSE
+Eragon,2006,1.44.00,0.16,Fantasy,Adventure,PG,Stefen Fangmeier,FALSE
+Errementari/The Devil and the Blacksmith,2017,1.38.00,0.80,Horror,Fantasy,NR,Paul Urkijo,FALSE
+Eternal Sunshine of the Spotless Mind,2004,1.48.00,0.92,Romance,Sci-fi,R,Michel Gondry,FALSE
+Eurovision Song Contest: The Story of Fire Saga,2020,2.03.00,0.63,Comedy,Musical,PG-13,David Dobkin,FALSE
+Event Horizon,1997,1.37.00,0.31,Horror,Sci-fi,R,Paul W.S. Anderson,FALSE
+Ever After: A Cinderella Story,1998,2.01.00,0.91,Romance,Drama,PG,Andy Tennant,FALSE
+Evil Dead II,1987,1.25.00,0.95,Horror,Comedy,R,Sam Raimi,FALSE
+Evolution,2001,1.42.00,0.43,Sci-Fi,Comedy,PG-13,Ivan Reitman,FALSE
+Ex Machina,2014,1.50.00,0.92,Sci-Fi,Thriller,R,Alex Garland,FALSE
+Excision,2012,1.21.00,0.85,Horror,Drama,NR,Richard Bates Jr.,FALSE
+Face/Off,1997,2.13.00,0.92,Action,Sci-fi,R,John Woo,FALSE
+Facing the Giants,2006,1.52.00,0.16,Sport,Drama,PG,Alex Kendrick,FALSE
+Fantasia,1940,2.00.00,0.95,Fantasy,Musical,G,"James Algar, Wilfred Jackson, Ben Sharpsteen, Samuel Armstrong, Hamilton Luske, Norm Ferguson, Paul Satterfield, Bill Roberts, David Hand, T. Hee, Jim Handley, Ford Beebe Jr.",FALSE
+Fantasia 2000,1999,1.15.00,0.81,Musical,Fantasy,G,"James Algar, Eric Goldberg, Hendel Butoy, Don Hahn, Paul Brizzi, Pixote Hunt, Francis Glebas, Gaetan Brizzi",FALSE
+Fantastic 4: Rise of the Silver Surfer,2007,1.32.00,0.37,Sci-Fi,Action,PG,Tim Story,FALSE
+Fantastic Four,2005,2.05.00,0.28,Action,Fantasy,PG-13,Tim Story,FALSE
+Fantastic Mr. Fox,2009,1.27.00,0.93,Comedy,Adventure,PG,Wes Anderson,FALSE
+Father of the Bride,1991,1.45.00,0.70,Comedy,Romance,PG,Charles Shyer,FALSE
+Fear Street Part One: 1994,2021,1.47.00,0.83,Horror,Mystery,R,Leigh Janiak,FALSE
+FernGully: The Last Rainforest,1992,1.16.00,0.67,Adventure,Fantasy,G,Bill Kroyer,FALSE
+Ferris Bueller’s Day Off,1986,1.38.00,0.81,Comedy,Teen,PG-13,John Hughes,FALSE
+Fiddler on the Roof,1971,3.01.00,0.83,Musical,Romance,G,Norman Jewison,FALSE
+Final Girl,2015,1.30.00,0.31,Thriller,Action,R,Tyler Shields,FALSE
+Finding Nemo,2003,1.40.00,0.99,Comedy,Drama,G,Andrew Stanton,FALSE
+Finding Neverland,2004,1.41.00,0.83,Family,Drama,PG,Marc Forster,FALSE
+Fireproof,2008,2.02.00,0.38,Drama,Romance,PG,Alex Kendrick,FALSE
+Flubber,1997,1.34.00,0.24,Family,Comedy,PG,Les Mayfield,FALSE
+Flushed Away,2006,1.26.00,0.73,Comedy,Family,PG,"Sam Fell, David Bowers",FALSE
+Fly Away Home,1996,1.47.00,0.88,Family,Drama,PG,Carroll Ballard,FALSE
+"Follow Me, Boys!",1966,2.13.00,0.77,Family,Drama,G,Norman Tokar,FALSE
+Forrest Gump,1994,2.22.00,0.71,Drama,Romance,PG-13,Robert Zemeckis,FALSE
+Francis in the Navy,1955,1.20.00,0.53,Comedy,,NR,Arthur Lubin,FALSE
+Freaky Friday,2003,1.37.00,0.88,Comedy,Fantasy,PG,Mark Waters,FALSE
+Free Guy,2021,1.55.00,0.80,Action,Sci-fi,PG-13,Shawn Levy,FALSE
+Fright Night,2011,2.00.00,0.72,Horror,Comedy,R,Craig Gillespie,FALSE
+Fright Night,1985,1.46.00,0.81,Horror,Comedy,R,Tom Holland,FALSE
+From Dusk Till Dawn,1996,1.48.00,0.62,Horror,Action,R,Robert Rodriguez,FALSE
+Frozen,2013,1.48.00,0.90,Musical,Family,PG,"Chris Buck, Jennifer Lee",TRUE
+Fullmetal Alchemist,2017,2.15.00,0.28,Action,,PG-13,Fumihiko Sori,FALSE
+Fun and Fancy Free,1947,1.13.00,0.67,Family,Adventure,G,"Jack Kinney, Hamilton Luske, Bill Roberts, William Morgan",FALSE
+Fun With Dick and Jane,2005,1.31.00,0.29,Comedy,Crime,PG-13,Dean Parisot,FALSE
+Galaxy Quest,1999,1.42.00,0.90,Sci-Fi,Action,PG,Dean Parisot,FALSE
+Garfield,2004,1.20.00,0.15,Family,Comedy,PG,Peter Hewitt,FALSE
+Garfield: A Tail of Two Kitties,2006,1.26.00,0.12,Comedy,Family,PG,Tim Hill,FALSE
+George of the Jungle,1997,1.32.00,0.55,Family,Comedy,PG,Sam Weisman,FALSE
+Gerald’s Game,2017,1.43.00,0.91,Horror,Thriller,NR,Mike Flanagan,FALSE
+Get Out,2017,1.44.00,0.98,Horror,Thriller,R,Jordan Peele,TRUE
+Get Smart,2008,1.50.00,0.51,Comedy,Action,PG-13,Peter Segal,FALSE
+Ghost Rider,2007,2.03.00,0.27,Action,Fantasy,PG-13,Mark Steven Johnson,FALSE
+Ghosts of Girlfriends Past,2009,1.55.00,0.28,Romance,Comedy,PG-13,Mark Waters,FALSE
+Gidget,1959,1.35.00,0.55,Romance,Teen,NR,Paul Wendkos,FALSE
+Gnomeo and Juliet,2011,1.24.00,0.53,Family,Comedy,G,Kelly Asbury,FALSE
+Goats,2012,1.34.00,0.19,Comedy,Comedy Drama,R,Christopher Neil,FALSE
+Godzilla: King of the Monsters,2019,2.12.00,0.42,Sci-Fi,Action,PG-13,Michael Dougherty,FALSE
+Gone Girl,2014,2.29.00,0.88,Thriller,Mystery,R,David Fincher,FALSE
+Gone With the Wind,1939,3.58.00,0.90,Romance,Drama,NR,Victor Fleming,FALSE
+"Good Morning, Vietnam",1987,2.01.00,0.89,War,Comedy,R,Barry Levinson,FALSE
+Good Will Hunting,1997,1.50.00,0.96,Drama,Romance,R,Gus Van Sant,FALSE
+Goodfellas,1990,2.26.00,0.96,Crime,Drama,R,Martin Scorsese,FALSE
+Goodnight Mommy,2014,1.39.00,0.85,Horror,Thriller,R,"Veronika Franz, Severin Fiala",FALSE
+Grease,1978,1.50.00,0.76,Musical,Romance,PG,Randal Kleiser,FALSE
+Gremlins,1984,1.46.00,0.86,Horror,Fantasy,PG,Joe Dante,FALSE
+Guardians of the Galaxy 2,2017,2.17.00,0.85,Sci-Fi,Action,PG-13,James Gunn,FALSE
+Gulliver’s Travels,2010,1.33.00,0.20,Adventure,Family,PG,Rob Letterman,FALSE
+Gulliver’s Travels,1939,1.17.00,0.69,Musical,Adventure,G,"David Fleischer, Seymour Kneitel, Grim Natwick, Roland Crandall, Frank Kelling, Tom Palmer, Winfield Hoskins",FALSE
+Hairspray,2007,1.57.00,0.92,Musical,Romance,PG,Adam Shankman,FALSE
+Halloweentown,1998,1.25.00,0.80,Family,Fantasy,NR,Duwayne Dunham,FALSE
+Hancock,2008,1.42.00,0.41,Action,Fantasy,PG-13,Peter Berg,FALSE
+Hannah Montana: The Movie,2009,1.42.00,0.43,Musical,Family,G,Peter Chelsom,FALSE
+Happy Feet,2006,1.48.00,0.76,Family,Comedy,PG,George Miller,FALSE
+Harriet the Spy,1996,1.40.00,0.48,Comedy,Drama,PG,Bronwen Hughes,FALSE
+Harry Potter and the Chamber of Secrets,2002,2.41.00,0.82,Fantasy,Adventure,PG,Chris Columbus,FALSE
+Harry Potter and the Deathly Hallows: Part 1,2010,2.26.00,0.77,Fantasy,,PG-13,David Yates,FALSE
+Harry Potter and the Deathly Hallows: Part 2,2011,2.10.00,0.96,Fantasy,,PG-13,David Yates,FALSE
+Harry Potter and the Goblet of Fire,2005,2.37.00,0.88,Fantasy,Adventure,PG-13,Mike Newell,FALSE
+Harry Potter and the Half-Blood Prince,2009,2.33.00,0.84,Fantasy,Adventure,PG,David Yates,FALSE
+Harry Potter and the Order of the Phoenix,2007,2.18.00,0.78,Fantasy,Adventure,PG-13,David Yates,FALSE
+Harry Potter and the Prisoner of Azkaban,2004,2.19.00,0.90,Fantasy,Adventure,PG,Alfonso Cuaron,FALSE
+Harry Potter and the Sorcerer’s Stone,2001,2.32.00,0.81,Fantasy,Adventure,PG,Chris Columbus,FALSE
+Hatari!,1962,2.37.00,0.64,Adventure,Romance,NR,Howard Hawks,FALSE
+Heidi,1993,3.13.00,0.86,Drama,Family,G,Michael Rhodes,FALSE
+Hellbound: Hellraiser II,1988,1.37.00,0.50,Horror,Slasher,R,Tony Randel,FALSE
+Hellboy,2004,2.02.00,0.81,Action,Fantasy,PG-13,Guillermo del Toro,FALSE
+Hello Dolly!,1969,2.26.00,0.45,Musical,Romance,G,Gene Kelly,FALSE
+Hellraiser,1987,1.34.00,0.70,Horror,Fantasy,R,Clive Barker,FALSE
+Henry’s Crime,2010,1.48.00,0.42,Thriller,Action,R,Malcolm Venville,FALSE
+Her,2013,2.06.00,0.94,Romance,Sci-fi,R,Spike Jonze,FALSE
+Herbie Fully Loaded,2005,1.41.00,0.41,Family,Comedy,G,Angela Robinson,FALSE
+Herbie Goes to Monte Carlo,1977,1.45.00,0.60,Comedy,Adventure,G,Vincent McEveety,FALSE
+Hercules,1997,1.33.00,0.84,Adventure,Fantasy,G,"Ron Clements, John Musker",FALSE
+Hidalgo,2004,2.16.00,0.46,Biography,Western,PG-13,Joe Johnston,FALSE
+Higher Ground,2011,1.54.00,0.82,Drama,,R,Vera Farmiga,FALSE
+His House,2020,1.33.00,1.00,Horror,Thriller,NR,Remi Weekes,FALSE
+Hitch,2005,1.58.00,0.69,Romance,Comedy,PG-13,Andy Tennant,FALSE
+Hocus Pocus,1993,1.36.00,0.39,Fantasy,Horror,PG,Kenny Ortega,FALSE
+Holes,2003,2.00.00,0.78,Comedy,Drama,PG,Andrew Davis,FALSE
+Home Alone 2: Lost in New York,1992,2.00.00,0.35,Comedy,,PG,Chris Columbus,FALSE
+Homeward Bound: The Incredible Jouney,1993,1.24.00,0.87,Adventure,Family,G,Duwayne Dunham,FALSE
+"Honey, I Shrunk the Kids",1989,1.33.00,0.78,Family,Comedy,PG,Joe Johnston,FALSE
+Hook,1991,2.22.00,0.29,Adventure,Fantasy,PG,Steven Spielberg,FALSE
+Hoot,2006,1.35.00,0.26,Family,Comedy,PG,Wil Shriner,FALSE
+Horns,2013,2.03.00,0.42,Horror,Fantasy,R,Alexandre Aja,FALSE
+Hot Fuzz,2007,2.01.00,0.91,Comedy,Action,R,Edgar Wright,FALSE
+Hot Lead and Cold Feet,1978,1.30.00,0.64,Comedy,Western,G,Robert Butler,FALSE
+Hot Rod,2007,1.28.00,0.39,Comedy,,PG-13,Akiva Schaffer,FALSE
+Hotel Transylvania,2012,1.31.00,0.44,Comedy,Family,PG,Genndy Tartakovsky,FALSE
+How the Grinch Stole Christmas,1966,.00.26.00,1.00,Musical,Short,NR,Chuck Jones,FALSE
+How the Grinch Stole Christmas,2000,1.45.00,0.49,Family,Fantasy,PG,Ron Howard,FALSE
+How to Marry a Millionaire,1953,1.35.00,0.85,Comedy,Romance,NR,Jean Negulesco,FALSE
+How to Train Your Dragon,2010,1.38.00,0.99,Family,Adventure,PG,"Chris Sanders, Dean DeBois",FALSE
+Howl’s Moving Castle,2004,1.59.00,0.87,Fantasy,Adventure,PG,Hayao Miyazaki,FALSE
+Hugo,2011,2.06.00,0.93,Fantasy,Adventure,PG,Martin Scorsese,FALSE
+Hush,2016,1.27.00,0.93,Horror,Thriller,R,Mike Flanagan,FALSE
+I Care A Lot,2020,1.58.00,0.79,Comedy,Thriller,R,J Blakeson,FALSE
+I Don’t Feel at Home in This World Anymore,2017,1.36.00,0.89,Crime,Drama,NR,Macon Blair,FALSE
+I Was a Male War Bride,1949,1.45.00,0.76,Comedy,Romance,NR,Howard Hawks,FALSE
+"I, Robot",2004,1.55.00,0.56,Sci-Fi,Action,PG-13,Alex Proyas,FALSE
+I’m Thinking of Ending Things,2020,2.14.00,0.82,Thriller,Horror,R,Charlie Kaufman,FALSE
+Ice Age,2002,1.21.00,0.77,Adventure,Comedy,PG,Chris Wedge,FALSE
+Ice Age 2: The Meltdown,2006,1.31.00,0.57,Adventure,Comedy,PG,Carlos Saldhana,FALSE
+Ice Age: Dawn of the Dinosaurs,2009,1.34.00,0.46,Adventure,Comedy,PG,Carlos Saldhana,FALSE
+Ice Princess,2005,1.38.00,0.52,Sport,Family,G,Tim Fywell,TRUE
+In the Tall Grass,2019,1.30.00,0.36,Horror,Drama,NR,Vincenzo Natali,FALSE
+In Tranzit,2007,1.53.00,0.38,War,Drama,R,Tom Roberts,FALSE
+Inception,2010,2.28.00,0.87,Action,Sci-fi,PG-13,Christopher Nolan,FALSE
+Inconceivable,2017,1.45.00,0.36,Thriller,Drama,R,Jonathan Baker,FALSE
+Independence Day,1996,2.25.00,0.67,Sci-Fi,Action,PG-13,Roland Emmerich,FALSE
+Indiana Jones and the Raiders of the Lost Ark,1981,1.45.00,0.96,Adventure,Action,PG,Steven Spielberg,FALSE
+Indiscreet,1958,1.40.00,1.00,Romance,Comedy,PG,Stanley Donen,FALSE
+Inglorious Basterds,2009,2.33.00,0.89,War,Action,R,Quentin Tarantino,FALSE
+Inside Out,2015,1.35.00,0.98,Family,Comedy,PG,Peter Docter,FALSE
+Insidious,2010,1.43.00,0.66,Horror,Thriller,PG-13,James Wan,FALSE
+Insidious: Chapter 2,2013,1.46.00,0.38,Horror,Thriller,PG-13,James Wan,FALSE
+Inspector Gadget,1999,1.18.00,0.20,Family,Comedy,PG,David Kellog,FALSE
+Interstellar,2014,2.49.00,0.73,Sci-Fi,Adventure,PG-13,Christopher Nolan,TRUE
+Into the Woods,2014,2.05.00,0.71,Musical,Fantasy,PG,Rob Marshall,TRUE
+Iron Jawed Angels,2004,2.03.00,0.56,Drama,Historical Drama,NR,Katja von Garnier,FALSE
+Iron Man,2008,2.06.00,0.94,Action,Adventure,PG-13,Jon Favreau,FALSE
+Iron Man 2,2010,2.05.00,0.71,Action,Adventure,PG-13,Jon Favreau,FALSE
+Iron Man 3,2013,2.10.00,0.79,Action,Adventure,PG-13,Shane Black,FALSE
+It,2017,2.15.00,0.86,Horror,Thriller,R,Andres Muschietti,TRUE
+It Chapter 2,2019,2.49.00,0.62,Horror,Thriller,R,Andres Muschietti,TRUE
+It Comes at Night,2017,1.31.00,0.88,Horror,Mystery,R,Trey Edward Shults,TRUE
+It Follows,2014,1.37.00,0.95,Horror,Thriller,R,David Robert Mitchell,FALSE
+It’s a Wonderful Life,1946,2.10.00,0.93,Fantasy,Drama,PG,Frank Capra,FALSE
+Jack the Giant Killer,1962,1.34.00,0.75,Fantasy,Adventure,G,Nathan Juran,FALSE
+Jeepers Creepers,2001,1.30.00,0.46,Horror,Thriller,R,Victor Salva,FALSE
+Jesus,1979,1.57.00,0.86,Biography,Drama,G,Barnet Bain,FALSE
+Jiu Jitsu,2020,1.42.00,0.28,Action,Martial Arts,R,Dimitri Logothetis,FALSE
+John Dies at the End,2012,1.39.00,0.60,Horror,Sci-fi,R,Don Coscarelli,FALSE
+John Wick Chapter 3: Parabellum,2019,2.11.00,0.89,Action,Thriller,R,Chad Stahelski,FALSE
+John Wick: Chapter 2,2017,2.02.00,0.89,Action,Thriller,R,Chad Stahelski,FALSE
+Johnny English,2003,1.29.00,0.33,Comedy,Action,PG,Peter Howitt,FALSE
+Jonah: A VeggieTales Movie,2002,1.23.00,0.66,Musical,Comedy,G,"Phil Vischer, Mike Nawrocki",FALSE
+Jonas Brothers: the 3D Concert Experience,2009,1.16.00,0.45,Family,Music,G,Bruce Hendricks,FALSE
+Joshua,2007,1.46.00,0.62,Thriller,Horror,R,George Ratiff,FALSE
+Julie & Julia,2009,2.03.00,0.78,Romance,Drama,PG-13,Nora Ephron,FALSE
+Jupiter Ascending,2015,2.07.00,0.28,Sci-Fi,Action,PG-13,"Lana Wachowski, Lily Wachowski",TRUE
+Jurassic Park,1993,2.07.00,0.92,Sci-Fi,Action,PG-13,Steven Spielberg,FALSE
+Jurassic World,2015,2.04.00,0.59,Action,Sci-fi,PG-13,Colin Trevorrow,FALSE
+Kick-Ass,2010,1.57.00,0.76,Action,Comedy,R,Matthew Vaughn,FALSE
+Kiki’s Delivery Service,1989,1.42.00,0.98,Adventure,Fantasy,G,Hayao Miyazaki,FALSE
+Killing Ground,2016,1.29.00,0.74,Horror,Thriller,NR,Damien Power,FALSE
+Kind Hearts and Coronets,1949,1.46.00,1.00,Comedy,Crime,NR,Robert Hamer,FALSE
+King Kong,2005,3.21.00,0.84,Adventure,Fantasy,PG-13,Peter Jackson,FALSE
+Knights of Badassdom,2013,1.26.00,0.63,Horror,Fantasy,R,Joe Lynch,FALSE
+Knock Knock,2015,1.36.00,0.37,Thriller,Horror,R,Eli Roth,FALSE
+Knowing,2009,2.01.00,0.34,Sci-Fi,Thriller,PG-13,Alex Proyas,FALSE
+Kronk’s New Groove,2000,1.18.00,0.86,Family,Comedy,G,Mark Dindal,FALSE
+Kubo and the Two Strings,2016,1.41.00,0.97,Fantasy,Adventure,PG,Travis Knight,TRUE
+Kung Fu Panda,2008,1.32.00,0.97,Family,Comedy,PG,"John Stevenson, Mark Osborne",TRUE
+Kung Fu Panda 2,2011,1.32.00,0.80,Family,Comedy,PG,Jennifer Yuh Nelson,FALSE
+Labyrinth,1986,1.41.00,0.75,Fantasy,Musical,PG,Jim Henson,FALSE
+Lady and the Tramp,1955,1.16.00,0.93,Adventure,Family,G,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",FALSE
+Laurel and Hardy,1929,00.19.00,,Comedy,Short,NR,Lewis R. Foster,FALSE
+Leap Year,2010,1.40.00,0.23,Rom-Com,,PG,Anand Tucker,FALSE
+Left Behind,2014,1.50.00,0.12,Thriller,Action,PG-13,Vic Armstrong,TRUE
+Left Behind,2000,1.36.00,0.16,Thriller,Action,PG-13,Vic Sarin,FALSE
+Legally Blonde,2001,1.36.00,0.71,Comedy,Romance,PG-13,Robert Luketic,FALSE
+Legally Blonde 2,2003,1.35.00,0.36,Comedy,Romance,PG-13,Charles Herman-Wurmfeld,FALSE
+Lemony Snicket’s A Series of Unfortunate Events,2004,1.48.00,0.72,Fantasy,Adventure,PG,Brad Silberling,FALSE
+Les Miserables,2012,2.38.00,0.69,Musical,Drama,PG-13,Tom Hooper,FALSE
+Life,2017,1.50.00,0.67,Sci-Fi,Horror,R,Daniel Espinosa,FALSE
+Lilo & Stitch,2002,1.25.00,0.87,Family,Comedy,PG,Ric Sluiter,FALSE
+Lilo & Stitch 2: Stitch Has a Glitch,2005,1.08.00,0.40,Family,Comedy,PG,"Tony Leondis, Michael LaBash",FALSE
+Little Nemo: Adventures in Slumberland,1989,1.34.00,0.84,Fantasy,Family,G,"Masami Hata, William Hurtz",FALSE
+Lord of War,2005,2.03.00,0.61,War,Drama,R,Andrew Niccol,FALSE
+Lost Bullet,2020,1.32.00,0.78,Action,Crime,R,Guillame Pierret,FALSE
+Love in the Time of Money,2002,1.30.00,0.18,Drama,Indie,R,Peter Mattei,FALSE
+Luther,2003,2.03.00,0.45,Drama,Historical Drama,PG-13,Eric Till,FALSE
+M*A*S*H*,1970,1.56.00,0.84,Comedy,War,R,Robert Attman,FALSE
+Mad Max: Fury Road,2015,2.00.00,0.97,Action,Adventure,R,George Miller,TRUE
+Madagascar,2005,1.26.00,0.55,Family,Comedy,PG,"Tom McGrath, Eric Darnell",FALSE
+Madeline,1998,1.28.00,0.65,Family,Comedy,PG,Daisy von Scherler Mayer,FALSE
+Magic Mike,2012,1.50.00,0.78,Drama,Comedy,R,Steve Soderbergh,FALSE
+Maid in Manhattan,2002,1.45.00,0.38,Romance,Comedy-Drama,PG-13,Wayne Wang,FALSE
+Maleficent,2014,1.37.00,0.54,Fantasy,Adventure,PG,Robert Stromberg,TRUE
+Malevolent,2018,1.29.00,0.58,Horror,Thriller,R,Olaf de Fleur Johannesson,FALSE
+Malignant,2021,1.51.00,0.76,Horror,Thriller,R,James Wan,FALSE
+Mama,2013,1.40.00,0.63,Horror,Thriller,PG-13,Andres Muschietti,FALSE
+Mamma Mia!,2008,1.48.00,0.55,Musical,Romance,PG-13,Phyllida Lloyd,FALSE
+Man of Steel,2013,2.23.00,0.56,Action,Adventure,PG-13,Zack Snyder,FALSE
+Mandy,2018,2.01.00,0.90,Horror,Thriller,NR,Panos Cosmatos,FALSE
+Mars Attacks!,1996,1.46.00,0.56,Sci-Fi,Comedy,PG-13,Tim Burton,FALSE
+Mary Poppins,1964,2.19.00,0.96,Musical,Family,G,Robert Stevenson,FALSE
+Master and Commander: the Far Side of the World,2003,2.18.00,0.85,War,Adventure,PG-13,Peter Weir,FALSE
+Master of Disguise,2002,1.20.00,0.01,Adventure,Comedy,PG,Perry Andelin Blake,FALSE
+Matchstick Men,2003,1.56.00,0.82,Black Comedy,,PG-13,Ridley Scott,FALSE
+Matilda,1996,1.42.00,0.91,Family,Comedy,PG,Danny DeVito,FALSE
+Mean Girls,2004,1.37.00,0.84,Comedy,Teen,PG-13,Mark Waters,FALSE
+Meet Me in St. Louis,1944,1.53.00,1.00,Musical,Romance,NR,Vincente Minnelli,FALSE
+Meet the Robinsons,2007,1.35.00,0.67,Comedy,Family,G,Stephen John Anderson,FALSE
+Men in Black,1997,1.38.00,0.92,Sci-Fi,,PG-13,Barry Sonnenfield,FALSE
+Men In Black II,2002,1.30.00,0.39,Sci-Fi,Action,PG-13,Barry Sonnenfield,FALSE
+Men in Black III,2012,1.46.00,0.67,Sci-Fi,Action,PG-13,Barry Sonnenfield,FALSE
+Mickey’s Magical Christmas: Snowed in at the House of Mouse,2001,1.05.00,0.61,Fantasy,Musical,G,"Burny Mattinson, Roberts Gannaway, Tony Craig, Rick Calabash",FALSE
+Midsommar,2019,2.20.00,0.83,Horror,Thriller,R,Ari Aster,FALSE
+Millenium Actress,2001,1.27.00,0.93,Fantasy,,PG,Satoshi Kon,FALSE
+Mind the Gap,2004,2.14.00,0.56,Indie,Drama,R,Eric Schaeffer,FALSE
+Miracle on 34th Street,1994,1.54.00,0.60,Family,Fantasy,PG,Les Mayfield,FALSE
+Miracle on 34th Street,1947,1.41.00,0.96,Comedy,Comedy Drama,NR,George Seaton,FALSE
+Mirror Mirror,2012,1.46.00,0.50,Fantasy,Comedy,PG,Tarsem Singh,FALSE
+Miss Congeniality,2000,1.43.00,0.41,Comedy,Action,PG-13,Donald Petrie,FALSE
+Miss Pettigrew Lives for a Day,2008,1.32.00,0.78,Comedy,Rom-Com,PG-13,Bharat Nalluri,FALSE
+Mission Impossible: Ghost Protocol,2011,2.13.00,0.93,Action,Adventure,PG-13,Brad Bird,FALSE
+Moana,2016,1.43.00,0.95,Adventure,Comedy,PG,"Ron Clements, John Musker",TRUE
+Modern Times,1936,1.27.00,0.98,Comedy,Romance,G,Charlie Chaplin,FALSE
+Mom and Dad,2017,1.26.00,0.75,Horror,Thriller,R,Brian Taylor,FALSE
+Monsters vs. Aliens,2009,1.42.00,0.74,Comedy,Adventure,PG,"Rob Letterman, Conrad Vernon",FALSE
+"Monsters, Inc.",2001,1.36.00,0.96,Comedy,Adventure,G,Pete Docter,FALSE
+Monte Carlo,2011,1.49.00,0.40,Romance,Comedy,PG,Thomas Bezucha,FALSE
+Monty Python and the Holy Grail,1975,1.29.00,0.98,Comedy,Fantasy,PG,"Terry Gilliam, Terry Jones",FALSE
+Monty Python’s Life of Brian,1979,1.34.00,0.96,Comedy,Satire,R,Terry Jones,FALSE
+Moonrise Kingdom,2012,1.34.00,0.93,Romance,Comedy,PG-13,Wes Anderson,FALSE
+Morbius,2022,1.44.00,0.15,Action,Fantasy,PG-13,Daniel Espinosa,FALSE
+Mr. and Mrs. Smith,2005,2.00.00,0.59,Action,Romance,PG-13,Doug Liman,FALSE
+Mr. Bean’s Holiday,2007,1.30.00,0.51,Comedy,Road,G,Steve Bendelack,FALSE
+Mr. Blandings Builds His Dream House,1948,1.34.00,0.85,Comedy,Romance,NR,Henry C. Potter,FALSE
+Mr. Deeds Goes to Town,1936,1.56.00,0.91,Comedy,Romance,NR,Frank Capra,FALSE
+Mr. Magoo,1997,1.45.00,0.07,Comedy,,PG,Stanley Tong,FALSE
+Mr. Nobody,2009,2.18.00,0.68,Sci-Fi,Drama,R,Jaco Van Dormaal,FALSE
+Mr. Smith Goes to Washington,1939,2.09.00,0.96,Drama,Comedy,NR,Frank Capra,FALSE
+Mrs. Doubtfire,1993,2.06.00,0.70,Comedy,Family,PG-13,Chris Columbus,FALSE
+Mrs. Ratcliffe’s Revolution,2007,1.42.00,0.83,Comedy,Comedy Drama,NR,Bille Eltringham,FALSE
+Much Ado About Nothing,1993,1.51.00,0.90,Romance,Comedy,PG-13,Kenneth Branagh,FALSE
+Mulan,1998,1.28.00,0.85,Musical,Adventure,G,"Tony Bancroft, Barry Cook",FALSE
+Mulan II,2004,1.19.00,0.42,Family,Adventure,G,"Darrell Rooney, Lynne Southerland",FALSE
+Muppet Treasure Island,1996,1.40.00,0.71,Family,Adventure,G,Brian Henson,FALSE
+Muppets from Space,1999,1.27.00,0.63,Comedy,Family,G,Tim Hill,FALSE
+My Big Fat Greek Wedding,2002,1.35.00,0.76,Romance,Comedy,PG,Joel Zwick,FALSE
+My Cousin Vinny,1992,1.59.00,0.87,Comedy,Crime,R,Jonathan Lynn,FALSE
+My Fair Lady,1964,2.55.00,0.94,Musical,Romance,G,George Cukor,FALSE
+My Favorite Martian,1999,1.35.00,0.12,Sci-Fi,Comedy,PG,Donald Petrie,FALSE
+My Little Chickadee,1940,1.23.00,0.93,Western,Comedy,NR,Edward F. Cline,FALSE
+My Neighbor Totoro,1988,1.26.00,0.65,Fantasy,Family,G,Hayao Miyazaki,FALSE
+Nacho Libre,2006,1.32.00,0.40,Comedy,Family,PG,Jared Hess,FALSE
+Nancy Drew,2007,1.39.00,0.49,Mystery,Family,PG,Andrew Fleming,FALSE
+Nanny McPhee,2005,1.37.00,0.74,Comedy,Family,PG,Kirk Jones,FALSE
+Napoleon Dynamite,2004,1.26.00,0.72,Comedy,Indie,PG,Jared Hess,FALSE
+National Lampoon’s Christmas Vacation,1989,1.37.00,0.68,Comedy,Slapstick,PG-13,Jeremiah S. Chechik,FALSE
+National Treasure,2004,2.11.00,0.46,Adventure,Action,PG,Jon Turteltaub,FALSE
+National Treasure: Book of Secrets,2007,2.04.00,0.36,Adventure,Action,PG,Jon Turteltaub,FALSE
+National Velvet,1944,2.03.00,1.00,Drama,Family,G,Clarence Brown,FALSE
+Nativity 2: Danger in the Manger,2012,1.45.00,0.36,Comedy,,NR,Debbie Isitt,FALSE
+Nausicaa of the Valley of the Wind,1984,1.35.00,0.89,Fantasy,Adventure,PG,Hayao Miyazaki,FALSE
+Never Forever,2007,1.30.00,0.80,Romance,Drama,R,Gina Kim,FALSE
+Neverwas,2005,1.48.00,0.14,Drama,Fantasy,PG-13,Joshua Michael Stern,FALSE
+Next,2007,1.36.00,0.28,Action,Sci-fi,PG-13,Lee Tamahori,FALSE
+Night at the Museum,2006,1.48.00,0.43,Comedy,Family,PG,Shawn Levy,FALSE
+Night at the Museum: Battle of the Smithsonian,2009,1.45.00,0.44,Fantasy,Family,PG,Shawn Levy,FALSE
+Night House,2020,1.48.00,0.87,Horror,Thriller,R,David Bruckner,FALSE
+Nightcrawler,2014,1.57.00,0.95,Thriller,Crime,R,Dan Gilroy,TRUE
+Nobody,2021,1.32.00,0.84,Action,Thriller,R,Ilya Naishuller,FALSE
+Nocturnal Animals,2016,1.56.00,0.74,Thriller,Drama,R,Tom Ford,FALSE
+Nothing But the Truth,2008,1.48.00,0.82,Drama,Political Drama,R,Rod Lurie,FALSE
+"O Brother, Where Art Thou?",2000,1.46.00,0.79,Musical,Comedy,PG-13,"Ethan Coen, Joel Coen",FALSE
+Ocean’s Eleven,2001,1.56.00,0.83,Crime,Comedy,PG-13,Steven Soderbergh,FALSE
+Ocean’s Thirteen,2007,1.53.00,0.70,Comedy,Crime,PG-13,Steven Soderbergh,FALSE
+Ocean’s Twelve,2004,2.05.00,0.54,Crime,Comedy,PG-13,Steven Soderbergh,FALSE
+October Sky,1999,1.48.00,0.91,Drama,Family,PG,Joe Johnston,FALSE
+Oh! What a Lovely War,1969,2.24.00,0.79,War,Musical,G,Richard Attenborough,FALSE
+Oklahoma,1955,2.25.00,0.86,Musical,Romance,G,Fred Zinnemann,FALSE
+Old Yeller,1957,1.24.00,1.00,Drama,Western,G,Robert Stevenson,FALSE
+Oliver & Company,1988,1.14.00,0.54,Musical,Adventure,G,George Scribner,FALSE
+One Fine Day,1996,1.48.00,0.53,Romance,Comedy,PG,Michael Hoffman,FALSE
+One Night With the King,2006,2.03.00,0.19,Drama,Romance,PG,Michael O. Sajbel,FALSE
+Only Lovers Left Alive,2013,2.03.00,0.86,Romance,Horror,R,Jim Jarmusch,FALSE
+Open Season,2006,1.26.00,0.49,Comedy,Adventure,PG,"Roger Allers, Jill Culton",FALSE
+Operation Petticoat,1959,2.04.00,0.81,War,Comedy,PG,Blake Edwards,FALSE
+Ophelia,2018,1.54.00,0.62,Romance,Drama,PG-13,Claire McCarthy,FALSE
+Orphan,2009,2.03.00,0.58,Horror,Thriller,R,Jaume Collet-Serra,FALSE
+OtherLife,2017,1.36.00,0.61,Sci-Fi,Thriller,NR,Ben C. Lucas,FALSE
+Ouija,2014,1.29.00,0.06,Horror,Thriller,PG-13,Stiles White,FALSE
+Outcast,2014,1.39.00,0.04,Action,Adventure,NR,Nick Powell,FALSE
+Outlaw King,2018,2.17.00,0.62,Drama,Action,R,David Mackenzie,FALSE
+Over the Hedge,2006,1.23.00,0.76,Comedy,Family,PG,"Tim Johnson, Karey Kirkpatrick",FALSE
+Over the Moon,2020,1.40.00,0.81,Adventure,Family,PG,Glen Keane,FALSE
+Oz: The Great and Powerful,2013,2.10.00,0.56,Fantasy,Adventure,PG,Sam Raimi,FALSE
+Pacific Rim,2013,2.11.00,0.72,Sci-Fi,Action,PG-13,Guillermo del Toro,FALSE
+Pandorum,2009,1.48.00,0.30,Sci-Fi,Horror,R,Christian Alvart,FALSE
+Pay the Ghost,2015,1.34.00,0.10,Horror,Thriller,NR,Uli Edel,FALSE
+Penelope,2008,1.44.00,0.53,Fantasy,Romance,PG,Mark Palansky,FALSE
+Percy Jackson & the Olympians: The Lightning Thief,2010,1.55.00,0.49,Fantasy,Adventure,PG,Chris Columbus,FALSE
+Personal Shopper,2016,1.45.00,0.81,Thriller,Drama,R,Olivier Assayas,FALSE
+Pete’s Dragon,1977,2.14.00,0.56,Musical,Fantasy,G,"Don Bluth, Don Chaffey",FALSE
+Peter Pan,2003,1.53.00,0.77,Adventure,Family,PG,P.J. Hogan,FALSE
+Peter Pan,1953,1.16.00,0.79,Fantasy,,G,"Clyde Geronimi, Wilfred Jackson, Hamilton Luske",FALSE
+Pig,2021,1.32.00,0.97,Drama,,R,Michael Sarnoski,FALSE
+Pillow Talk,1959,1.42.00,0.93,Romance,Comedy,NR,Michael Gordon,FALSE
+Pinocchio,1940,1.28.00,1.00,Fantasy,Musical,G,"Hamilton Luske, Ben Sharpsteen, Norm Ferguson, Wilfred Jackson, T. Hee, Bill Roberts, Jack Kinney",FALSE
+Pirates of the Caribbean 2: Dead Man’s Chest,2006,2.31.00,0.53,Adventure,Action,PG-13,Gore Verbinski,FALSE
+Pirates of the Caribbean 3: At World’s End,2007,2.48.00,0.44,Adventure,Action,PG-13,Gore Verbinski,FALSE
+Pirates of the Caribbean: Curse of the Black Pearl,2003,2.33.00,0.80,Adventure,Action,PG-13,Gore Verbinski,FALSE
+Pitch Perfect,2012,1.52.00,0.81,Comedy,Romance,PG-13,Jason Moore,FALSE
+Pleasantville,1998,2.04.00,0.86,Comedy,Fantasy,PG-13,Gary Ross,FALSE
+Pocahontas,1995,1.21.00,0.55,Musical,Historical Drama,G,"Eric Goldberg, Mike Gabriel",FALSE
+Pollyanna,1960,2.14.00,0.86,Family,Drama,G,David Swift,FALSE
+Predator,1987,1.47.00,0.80,Action,Sci-fi,R,John McTiernan,FALSE
+Prey,2022,1.40.00,0.93,Action,Sci-fi,R,Dan Trachtenberg,FALSE
+Pride & Prejudice,2005,2.07.00,0.87,Romance,Drama,PG,Joe Wright,FALSE
+Pride and Prejudice,1940,1.57.00,1.00,Romance,Drama,NR,Robert Z. Leonard,FALSE
+Princess Mononoke,1997,2.13.00,0.93,Fantasy,Adventure,PG-13,Hayao Miyazaki,FALSE
+Princess Protection Program,2009,1.30.00,0.60,Family,Comedy,G,Allison Liddl-Brown,FALSE
+Private Buckaroo,1942,1.10.00,0.27,Musical,Comedy,NR,Edward F. Cline,FALSE
+Prometheus,2012,2.04.00,0.73,Sci-Fi,Horror,R,Ridley Scott,FALSE
+Prospect,2018,1.40.00,0.89,Sci-Fi,Thriller,R,"Zeek Earl, Chris Caldwell",FALSE
+Psychokinesis,2018,1.41.00,0.80,Action,Comedy,NR,Yeon Sang-ho,FALSE
+Pulp Fiction,1994,2.34.00,0.92,Crime,Drama,R,Quentin Tarantino,FALSE
+Puss in Boots,2011,1.37.00,0.86,Adventure,Comedy,PG,Chris Miller,FALSE
+Quid Pro Quo,2008,1.22.00,0.60,Drama,Romance,R,Carlos Brooks,FALSE
+Racing Stripes,2005,1.41.00,0.35,Family,Comedy,PG,Frederik Du Chau,FALSE
+Radius,2017,1.33.00,0.93,Sci-Fi,Thriller,NR,"Steeve Leonard, Caroline Labreche",FALSE
+Rango,2011,1.47.00,0.88,Western,Comedy,PG,Gore Verbinski,FALSE
+Rascal,1969,1.25.00,0.44,Drama,Family,G,Norman Tokar,FALSE
+Ratatouille,2007,1.51.00,0.96,Family,Comedy,G,Brad Bird,FALSE
+Rebecca,1940,2.10.00,0.98,Romance,Mystery,NR,Alfred Hitchcock,FALSE
+Rebecca of Sunnybrook Farm,1938,1.21.00,0.71,Musical,,G,Allan Dwan,FALSE
+Red Dot,2021,1.25.00,0.75,Horror,Thriller,NR,Alain Darborg,FALSE
+Resident Evil,2002,1.40.00,0.35,Horror,Action,R,Paul W.S. Anderson,FALSE
+Return to Paradise,1998,1.52.00,0.70,Drama,Romance,R,Joseph Ruben,FALSE
+Revolt,2017,1.27.00,0.60,Sci-Fi,Action,R,Joe Miale,FALSE
+Riddick,2013,1.59.00,0.57,Sci-Fi,,R,David Twohy,FALSE
+Rio,2011,1.36.00,0.72,Family,Comedy,G,Carlos Saldhana,FALSE
+Rise of the Planet of the Apes,2011,1.45.00,0.82,Sci-Fi,Action,PG-13,Rupert Wyatt,FALSE
+Robin Hood,1973,1.23.00,0.55,Adventure,Comedy,G,Wolfgang Reitherman,FALSE
+Robin Hood,1938,1.42.00,1.00,Adventure,Romance,PG,"Michael Curtiz, William Keighley",FALSE
+Robots,2005,1.31.00,0.64,Family,Comedy,PG,Chris Wedge,FALSE
+Rogue One: A Star Wars Story,2016,2.13.00,0.84,Sci-Fi,Action,PG-13,Gareth Edwards,TRUE
+Roman Holiday,1953,1.58.00,0.97,Romance,Comedy,G,William Wyler,FALSE
+Romancing the Stone,1984,1.46.00,0.86,Romance,Adventure,PG,Robert Zemeckis,FALSE
+Rookie of the Year,1993,1.43.00,0.35,Sport,Comedy,PG,Daniel Stern,FALSE
+Rope,1948,1.20.00,0.92,Crime,Thriller,PG,Alfred Hitchcock,FALSE
+Rose Hill,1997,1.39.00,0.75,Western,Drama,PG,Christopher Cain,FALSE
+Rudy,1993,1.56.00,0.78,Sport,Drama,PG,David Anspaugh,FALSE
+Running Scared,2006,2.02.00,0.41,Action,Thriller,R,Wayne Kramer,FALSE
+RV,2006,1.40.00,0.24,Comedy,Family,PG,Barry Sonnenfield,FALSE
+Sabrina,1954,1.53.00,0.93,Romance,Comedy,PG,Billy Wilder,FALSE
+Sabrina,1995,2.07.00,0.63,Romance,Comedy,PG,Sydney Pollack,FALSE
+Safe House,2012,1.55.00,0.53,Action,Thriller,R,Daniel Espinosa,FALSE
+Sahara,2005,2.04.00,0.38,Action,Adventure,PG-13,Breck Eisner,FALSE
+Saving Mr. Banks,2013,2.05.00,0.79,Drama,Music,PG-13,"Kelly Marcel, Sue Smith",TRUE
+Saving Private Ryan,1998,2.49.00,0.94,War,Action,R,Steven Spielberg,FALSE
+Scanners,1981,1.43.00,0.69,Horror,Sci-fi,R,David Cronenberg,FALSE
+School of Rock,2003,1.49.00,0.92,Comedy,Music,PG-13,Richard Linklater,FALSE
+Scott Pilgrim vs. the World,2010,1.52.00,0.82,Action,Romance,PG-13,Edgar Wright,FALSE
+Scrooge,1970,1.53.00,0.75,Musical,Fantasy,G,Ronald Neame,FALSE
+Seal Morning,2000,1.43.00,,Drama,,NR,David Cobham,FALSE
+Season of the Witch,2011,1.35.00,0.11,Adventure,Fantasy,PG-13,Dominic Sena,FALSE
+Secondhand Lions,2003,1.51.00,0.60,Drama,Comedy,PG,Tim McCanlies,FALSE
+Seeking a Friend for the End of the World,2012,1.51.00,0.55,Romance,Drama,R,Lorene Scafaria,FALSE
+Self/Less,2015,1.57.00,0.19,Sci-Fi,Action,PG-13,Tarsem Singh,FALSE
+Sense and Sensibility,1995,2.16.00,0.97,Romance,Drama,PG,Ang Lee,FALSE
+Shakespeare in Love,1998,2.03.00,0.92,Romance,Drama,R,John Madden,FALSE
+Shark Tale,2004,1.30.00,0.35,Comedy,Family,PG,"Rob Letterman, Bibo Bergeron, Vicky Jenson",FALSE
+Shaun of the Dead,2004,1.37.00,0.92,Horror,Comedy,R,Edgar Wright,FALSE
+Shazam,2019,2.12.00,0.90,Action,Adventure,PG-13,David F. Sandberg,TRUE
+She’s All That,1999,1.35.00,0.42,Romance,Comedy,PG-13,Robert Iscove,FALSE
+She’s the Man,2006,1.45.00,0.43,Romance,Comedy,PG-13,Andy Fickman,FALSE
+Sherlock Holmes,2009,2.08.00,0.65,Mystery,,PG-13,Guy Ritchie,FALSE
+Sherlock Holmes: A Game of Shadows,2011,2.09.00,0.59,Mystery,Crime,PG-13,Guy Ritchie,FALSE
+Shrek,2001,1.30.00,0.88,Comedy,Fantasy,PG,"Andrew Adamson, Vicky Jensen",FALSE
+Shrek 2,2004,1.33.00,0.89,Comedy,Adventure,PG,"Andrew Adamson, Conrad Vernon, Kelly Asbury",FALSE
+Shrek Forever After,2010,1.33.00,0.57,Comedy,Adventure,PG,Mike Mitchell,FALSE
+Shrek the Third,2007,1.33.00,0.41,Comedy,Family,PG,Chris Miller,FALSE
+Silver Linings Playbook,2012,2.02.00,0.91,Romance,Drama,R,David O. Russell,FALSE
+Sinbad: Legend of the Seven Seas,2003,1.26.00,0.45,Adventure,,PG,"Tim Johnson, Patrick Gilmore",FALSE
+Singin’ in the Rain,1952,1.43.00,1.00,Musical,Romance,G,"Gene Kelly, Stanley Donen",FALSE
+Sinister,2012,1.50.00,0.63,Horror,Thriller,R,Scott Derrickson,FALSE
+Skin,2018,1.58.00,0.76,Drama,Crime,R,Guy Nativ,FALSE
+Sky Captain and the World of Tomorrow,2004,1.46.00,0.70,Sci-Fi,Adventure,PG,Kerry Conran,FALSE
+Sky High,2005,1.40.00,0.73,Fantasy,Comedy,PG,Mike Mitchell,FALSE
+Sleeping Beauty,1959,1.15.00,0.89,Fantasy,Musical,G,"Wolfgang Reitherman, Clyde Geronimi, Eric Larson, Les Clark",FALSE
+Snake Eyes,1998,1.38.00,0.41,Thriller,Crime,R,Brian de Palma,FALSE
+Snoopy Come Home,1972,1.21.00,0.93,Musical,Comedy Drama,G,Bill Melendez,FALSE
+Snow Dogs,2002,1.42.00,0.25,Family,Comedy,PG,Brian Levant,FALSE
+Snow White,1937,1.23.00,0.98,Family,Fantasy,G,"David Hand, Ben Sharpsteen, Larry Morey, Wilfred Jackson, Perce Pearce, William Cottrell",FALSE
+Snow White and the Hunstman,2012,2.07.00,0.49,Fantasy,Adventure,PG-13,Rupert Sanders,FALSE
+Snow White: The Fairest of Them All,2001,1.33.00,0.54,Fantasy,Adventure,NR,Caroline Thompson,FALSE
+Snowball Express,1972,1.39.00,0.60,Comedy,Family,G,Norman Tokar,FALSE
+Snowpiercer,2013,2.06.00,0.94,Sci-Fi,Action,R,Bong Joon-ho,FALSE
+Soul Surfer,2011,1.46.00,0.46,Drama,Family,PG,Sean McNamara,FALSE
+Source Code,2011,1.33.00,0.92,Sci-Fi,Action,PG-13,Duncan Jones,FALSE
+South Pacific,1958,2.52.00,0.82,Musical,Romance,NR,Joshua Logan,FALSE
+Space Jam,1996,1.40.00,0.43,Family,Comedy,PG,Joe Pytka,FALSE
+Special Correspondents,2016,1.40.00,0.16,Comedy,Satire,PG-13,Ricky Gervais,FALSE
+Spider-Man,2002,2.01.00,0.90,Action,Fantasy,PG-13,Sam Raimi,FALSE
+Spider-Man 2,2004,2.15.00,0.93,Action,Adventure,PG-13,Sam Raimi,FALSE
+Spider-Man 3,2007,2.19.00,0.63,Action,Sci-fi,PG-13,Sam Raimi,FALSE
+Spider-Man: Into the Spider-Verse,2018,1.56.00,0.97,Family,Action,PG,"Peter Ramsey, Bob Persichetti, Rodney Rothman",FALSE
+Spirit: Stallion of the Cimarron,2002,1.24.00,0.69,Family,Adventure,G,"Kelly Asbury, Lorna Cook",FALSE
+Spirited Away,2001,2.05.00,0.97,Fantasy,Adventure,PG,Hayao Miyazaki,FALSE
+Spy Kids,2001,1.28.00,0.93,Action,Family,PG,Robert Rodriguez,FALSE
+Spy Kids 2: The Island of Lost Dreams,2002,1.41.00,0.75,Action,Family,PG,Robert Rodriguez,FALSE
+Spy Kids 3D: Game Over,2003,1.24.00,0.45,Action,Family,PG,Robert Rodriguez,FALSE
+Star Trek,2009,2.07.00,0.94,Sci-Fi,Action,PG-13,J.J. Abrams,FALSE
+Star Wars: Episode I – The Phantom Menace,1999,2.11.00,0.51,Action,Sci-fi,PG,George Lucas,FALSE
+Star Wars: Episode II – Attack of the Clones,2002,2.00.00,0.65,Action,Sci-fi,PG,George Lucas,FALSE
+Star Wars: Episode III – Revenge of the Sith,2005,2.20.00,0.79,Action,Sci-fi,PG-13,George Lucas,FALSE
+Star Wars: Episode IV – A New Hope,1977,1.45.00,0.93,Sci-Fi,,PG,George Lucas,FALSE
+Star Wars: Episode V – The Empire Strikes Back,1980,2.04.00,0.94,Sci-Fi,Action,PG,George Lucas,FALSE
+Star Wars: Episode VI – Return of the Jedi,1983,2.11.00,0.83,Sci-Fi,Adventure,PG,George Lucas,FALSE
+Star Wars: The Clone Wars,2008,1.38.00,0.18,Adventure,Action,PG,Dave Filoni,FALSE
+Star Wars: The Force Awakens,2015,2.16.00,0.93,Action,Sci-fi,PG-13,J.J. Abrams,TRUE
+Star Wars: The Rise of Skywalker,2019,2.22.00,0.52,Sci-Fi,Action,PG-13,J.J. Abrams,TRUE
+Stardust,2007,2.07.00,0.77,Fantasy,Adventure,PG-13,Matthew Vaughn,FALSE
+Starship Troopers,1997,2.09.00,0.67,Sci-Fi,Action,R,Paul Verhoeven,FALSE
+State Fair,1945,1.40.00,0.83,Musical,Romance,NR,Walter Lang,FALSE
+Steamboat Willie,1928,00.08.00,0.82,Musical,Short,G,"Walt Disney, Ub Iwerks",FALSE
+Stolen,2012,1.36.00,0.19,Action,Thriller,R,Simon West,FALSE
+Stranger Than Fiction,2006,1.53.00,0.73,Fantasy,Comedy,PG-13,Marc Forster,FALSE
+Stuart Little,1999,1.23.00,0.67,Family,Comedy,PG,Rob Minkoff,FALSE
+Stuart Little 2,2002,1.28.00,0.81,Family,Comedy,PG,Rob Minkoff,FALSE
+Sunshine,2007,1.47.00,0.76,Sci-Fi,Thriller,R,Danny Boyle,FALSE
+Superman,1978,2.07.00,0.93,Action,Sci-fi,PG,Richard Donner,FALSE
+Superman Returns,2006,2.49.00,0.74,Action,Adventure,PG-13,Bryan Singer,FALSE
+Support Your Local Sheriff,1969,1.32.00,0.76,Western,Comedy,G,Burt Kennedy,FALSE
+Swan Princess,1994,1.30.00,0.50,Musical,Family,G,Richard Rich,FALSE
+Swan Princess: Escape from Castle Mountain,1997,1.11.00,0.40,Fantasy,,G,Richard Rich,FALSE
+Sweeney Todd: The Demon Barber of Fleet Street,2007,1.56.00,0.86,Musical,Horror,R,Tim Burton,FALSE
+Swiss Army Man,2016,1.37.00,0.72,Comedy,Adventure,R,"Daniel Kwan, Daniel Scheinert",FALSE
+Swiss Family Robinson,1960,2.06.00,0.83,Adventure,Family,G,Ken Annakin,FALSE
+Synchronic,2019,1.42.00,0.79,Sci-Fi,Thriller,R,"Justin Benson, Aaron Moorhead",FALSE
+Taken,2008,1.33.00,0.59,Action,Thriller,PG-13,Pierre Morel,FALSE
+Talladega Nights: The Ballad of Ricky Bobby,2006,1.48.00,0.71,Comedy,Sport,PG-13,Adam McKay,FALSE
+Tangled,2010,1.40.00,0.89,Family,Adventure,PG,"Nathan Greno, Byron Howard",FALSE
+Tarzan,1999,1.28.00,0.89,Adventure,Musical,G,"Kevin Lima, Chris Buck",FALSE
+Tarzan & Jane,2002,1.15.00,0.17,Adventure,Comedy,G,"Steve Loter, Victor Cook",FALSE
+Tarzan II,2005,1.14.00,0.33,Adventure,Family,G,Brian Smith,FALSE
+Teeth,2007,1.38.00,0.80,Horror,Comedy,R,Mitchell Lichtenstein,FALSE
+Tenacious D in the Pick of Destiny,2006,1.33.00,0.52,Comedy,Musical,R,Liam Lynch,FALSE
+Tenet,2020,2.30.00,0.69,Action,Sci-fi,PG-13,Christopher Nolan,FALSE
+That Darn Cat!,1965,1.56.00,0.94,Comedy,Crime,PG,Robert Stevenson,FALSE
+That Touch of Mink,1962,1.39.00,0.78,Romance,Comedy,NR,Delbert Mann,FALSE
+The Conjuring,2013,1.52.00,0.86,Horror,Thriller,R,James Wan,FALSE
+The 10 Commandments,1956,3.40.00,0.84,Drama,History,G,Cecil B. DeMille,FALSE
+The 3 Musketeers,1993,1.45.00,0.28,Adventure,Action,PG,Stephen Herek,FALSE
+The Absent-Minded Professor,1961,1.37.00,0.83,Comedy,Family,G,Robert Stevenson,FALSE
+The Addams Family,1991,1.39.00,0.66,Comedy,Fantasy,PG-13,Barry Sonnenfield,FALSE
+The Adjustment Bureau,2011,1.46.00,0.71,Sci-Fi,Romance,PG-13,George Nolfi,FALSE
+The Adventures of Bullwhip Griffin,1967,1.50.00,0.50,Western,Comedy,G,James Neilson,FALSE
+The Adventures of Huckleberry Finn,1993,1.47.00,0.73,Adventure,Drama,PG,Stephen Sommers,FALSE
+The Adventures of Ichabod and Mr. Toad,1949,1.08.00,0.94,Family,Fantasy,G,"Clyde Geronimi, Jack Kinney, James Algar",FALSE
+The Adventures of Milo and Otis,1986,1.35.00,0.80,Adventure,Comedy Drama,G,Masanori Hata,FALSE
+The Adventures of Sharkboy and Lavagirl 3D,2005,1.35.00,0.20,Adventure,Family,PG,Robert Rodriguez,FALSE
+The Adventures of Tintin,2011,1.47.00,0.74,Adventure,Family,PG,Steven Spielberg,FALSE
+The Aristocats,1970,1.18.00,0.63,Adventure,Comedy,G,Wolfgang Reitherman,FALSE
+The Autopsy of Jane Doe,2016,1.26.00,0.86,Horror,Thriller,R,Andre Ovredal,FALSE
+The Avengers,2012,2.23.00,0.91,Adventure,Action,PG-13,Joss Whedon,FALSE
+The Babadook,2014,1.32.00,0.98,Horror,Thriller,NR,Jennifer Kent,FALSE
+The Bad Batch,2016,1.58.00,0.46,Horror,Thriller,R,Ana Lily Amirpour,FALSE
+The Ballad of Buster Scruggs,2018,2.12.00,0.89,Western,Drama,R,"Ethan Coen, Joel Coen",FALSE
+The Battle of the Sexes,1959,1.24.00,0.83,Comedy,,NR,Charles Crichton,FALSE
+The Bear,1988,1.34.00,0.87,Adventure,Family,PG,Jean-Jacques Annaud,FALSE
+The Bishop’s Wife,1947,1.49.00,0.84,Fantasy,Romance,NR,Henry Koster,FALSE
+The Book of Eli,2010,1.58.00,0.47,Action,Sci-fi,R,"Albert Hughes, Allen Hughes",FALSE
+The Bourne Identity,2002,1.59.00,0.84,Action,Thriller,PG-13,Doug Liman,FALSE
+The Bourne Supremacy,2004,1.48.00,0.82,Action,Thriller,PG-13,Paul Greengrass,FALSE
+The Bourne Ultimatum,2007,1.55.00,0.92,Action,Thriller,PG-13,Paul Greengrass,FALSE
+The Boy in the Striped Pajamas,2008,1.34.00,0.65,War,Drama,PG-13,Mark Herman,FALSE
+The Boy Who Harnessed the Wind,2019,1.53.00,0.86,Drama,,NR,Chiwetel Ejiofor,FALSE
+The Brothers Grimm,2005,1.58.00,0.38,Fantasy,Adventure,PG-13,Terry Gilliam,FALSE
+The Captain’s Paradise,1953,1.33.00,0.80,Romance,Comedy,NR,Anthony Kimmins,FALSE
+The Cell,2000,1.49.00,0.45,Thriller,Horror,R,Tarsem Singh,FALSE
+The Chronicles of Narnia: Prince Caspian,2008,2.30.00,0.66,Fantasy,Adventure,PG,Andrew Adamson,FALSE
+"The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",2005,2.30.00,0.76,Fantasy,Adventure,PG,Andrew Adamson,TRUE
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,1.55.00,0.50,Fantasy,Adventure,PG,Michael Apted,FALSE
+The Cloverfield Paradox,2018,1.42.00,0.22,Sci-Fi,Thriller,PG-13,Julius Onah,FALSE
+The Commuter,2018,1.44.00,0.55,Action,Thriller,PG-13,Jaume Collet-Serra,FALSE
+The Computer Wore Tennis Shoes,1969,1.31.00,0.50,Comedy,Family,G,Robert Butler,FALSE
+The Conjuring 2,2016,2.14.00,0.80,Horror,Thriller,R,James Wan,FALSE
+The Conjuring: The Devil Made Me Do It,2021,1.52.00,0.56,Horror,Thriller,R,Michael Chaves,TRUE
+The Count of Monte Cristo,2002,2.14.00,0.73,Adventure,Action,PG-13,Kevin Reynolds,FALSE
+The Croods,2013,1.38.00,0.71,Family,Adventure,PG,"Chris Sanders, Kirk DeMicco",FALSE
+The Dark Crystal,1982,1.40.00,0.77,Fantasy,Family,PG,"Jim Henson, Frank Oz",FALSE
+The Dark Knight,2008,2.32.00,0.94,Action,Adventure,PG-13,Christopher Nolan,FALSE
+The Dark Tower,2017,1.35.00,0.15,Action,Fantasy,PG-13,Nikolaj Arcel,TRUE
+The Death of Stalin,2017,1.46.00,0.95,Comedy,Dark Comedy,R,Armando Iannucci,FALSE
+The Decoy Bride,2011,1.25.00,0.23,Drama,Rom-Com,PG,Sheree Folkson,FALSE
+The Departed,2006,2.31.00,0.90,Crime,Drama,R,Martin Scorsese,FALSE
+The Descent,2005,1.33.00,0.86,Horror,Thriller,R,Neil Marshall,FALSE
+The Devil All the Time,2020,2.19.00,0.64,Thriller,Drama,R,Antonio Campos,FALSE
+The Devil Wears Prada,2006,1.49.00,0.75,Comedy,Drama,PG-13,David Frankel,FALSE
+The Devil’s Advocate,1997,2.24.00,0.63,Horror,Thriller,R,Taylor Hackford,FALSE
+The Devil’s Candy,2015,1.30.00,0.92,Horror,,NR,Sean Byrne,FALSE
+The Dummy,2002,1.31.00,0.70,Romance,Comedy,R,Greg Pritikin,FALSE
+The Emperor’s New Groove,2000,1.18.00,0.86,Family,Comedy,G,Mark Dindal,FALSE
+The End of Evangelion,1997,1.30.00,0.90,Action,Fantasy,R,"Hideaki Anno, Kazuya Tsurumaki",FALSE
+The Evil Dead,1981,1.25.00,0.95,Horror,Splatter,NC-17,Sam Raimi,FALSE
+The Exorcist,1973,2.12.00,0.84,Horror,Thriller,R,William Friedkin,FALSE
+The Faculty,1998,1.42.00,0.55,Horror,Sci-fi,R,Robert Rodriguez,FALSE
+The Fall,2006,1.57.00,0.62,Fantasy,Adventure,R,Tarsem Singh,FALSE
+The Family Man,2000,2.05.00,0.53,Romance,Comedy,PG-13,Brett Ratner,FALSE
+The Fast and the Furious,2001,1.46.00,0.53,Crime,Adventure,PG-13,Rob Cohen,FALSE
+The Fifth Element,1997,1.53.00,0.71,Sci-Fi,Action,PG-13,Luc Besson,FALSE
+The Flintstones in Viva Rock Vegas,2000,1.31.00,0.25,Comedy,Family,PG,Brian Levant,FALSE
+The Fly,1986,1.36.00,0.93,Horror,Sci-fi,R,David Cronenberg,FALSE
+The Flying Scotsman,2006,1.36.00,0.50,Sport,Drama,PG-13,Douglas Mackinnon,FALSE
+The Fox and the Hound,1981,1.23.00,0.70,Family,Musical,G,"Richard Rich, Ted Berman, Art Stevens",FALSE
+The Front Runner,2018,1.53.00,0.58,Drama,Political Thriller,R,Jason Reitman,FALSE
+The Frozen Ground,2013,1.45.00,0.60,Thriller,Crime,R,Scott Walker,FALSE
+The Giver,2014,1.37.00,0.35,Sci-Fi,,PG-13,Phillip Noyce,TRUE
+The Gods Must Be Crazy,1980,1.49.00,0.85,Comedy,Slapstick,PG,Jamie Uys,FALSE
+The Golden Compass,2007,1.53.00,0.43,Fantasy,Adventure,PG-13,Chris Weitz,FALSE
+The Golem,2018,1.35.00,0.86,Horror,Drama,R,"Yoav Paz, Doron Paz",FALSE
+The Grand Budapest Hotel,2014,1.40.00,0.92,Comedy,Drama,R,Wes Anderson,FALSE
+The Great Dictator,1940,2.05.00,0.92,Comedy,War,G,Charlie Chaplin,FALSE
+The Great Gatsby,2013,2.22.00,0.48,Romance,Drama,PG-13,Baz Luhrmann,FALSE
+The Great Mouse Detective,1986,1.14.00,0.79,Mystery,Adventure,G,"Ron Clements, John Musker, Burny Mattinson, David Michener",FALSE
+The Green Knight,2021,2.05.00,0.89,Fantasy,Adventure,R,David Lowery,FALSE
+The Hard Easy,2006,1.45.00,0.35,Action,Crime,R,Ari Ryan,FALSE
+The Hobbit,1977,1.30.00,0.69,Fantasy,Adventure,NR,"Arthur Rankin, Jr., Jules Bass",FALSE
+The Hobbit: An Unexpected Journey,2012,2.49.00,0.64,Adventure,Fantasy,PG-13,Peter Jackson,FALSE
+The Humanity Bureau,2017,1.35.00,0.25,Sci-Fi,Thriller,R,Rob W. King,FALSE
+The Hunchback of Notre Dame,1996,1.31.00,0.72,Musical,Drama,G,"Gary Trousdale, Kirk Wise",FALSE
+The Hunger Games,2012,2.22.00,0.84,Action,Sci-fi,PG-13,Gary Ross,FALSE
+The Importance of Being Earnest,2002,1.37.00,0.57,Romance,Comedy,PG,Oliver Parker,FALSE
+The Incredible Hulk,2008,1.52.00,0.67,Action,Sci-fi,PG-13,Louis Leterrier,FALSE
+The Incredible Journey,1963,1.20.00,0.89,Adventure,Family,G,Fletcher Markle,FALSE
+The Incredibles,2004,1.55.00,0.97,Comedy,Superhero,PG,Brad Bird,TRUE
+The Incredibles 2,2018,2.06.00,0.93,Family,Adventure,PG,Brad Bird,FALSE
+The Informant,2009,1.48.00,0.79,Drama,Comedy,R,Steven Soderbergh,FALSE
+The Inspector General,1949,1.42.00,0.84,Musical,Comedy,NR,Henry Koster,FALSE
+The Invisible Man,2020,2.05.00,0.91,Horror,Thriller,R,Leigh Whannell,FALSE
+The Invitation,2015,1.40.00,0.89,Horror,Thriller,NR,Karyn Kusama,FALSE
+The Judge,2014,2.21.00,0.49,Drama,Comedy Drama,R,David Dobkin,FALSE
+The Jungle Book,1967,1.29.00,0.88,Family,Adventure,G,Wolfgang Reitherman,FALSE
+The Jungle Book 2,2003,1.12.00,0.18,Adventure,Musical,G,Steve Trenbirth,FALSE
+The Karate Kid,1984,2.06.00,0.89,Drama,Action,PG,John G. Avildsen,FALSE
+The Kid,2000,1.44.00,0.49,Fantasy,Comedy,PG,Jon Turteltaub,FALSE
+The King and I,1956,2.13.00,0.93,Musical,Romance,G,Walter Lang,FALSE
+The Ladykillers,1955,1.37.00,1.00,Crime,Comedy,NR,Alexander Mackendrick,FALSE
+The Lake House,2006,1.45.00,0.35,Romance,Fantasy,PG,Alejandro Agresti,FALSE
+The Land Before Time,1988,1.09.00,0.64,Family,Adventure,G,Don Bluth,FALSE
+The Last Song,2010,1.47.00,0.21,Romance,Drama,PG,Julie Anna Robinson,FALSE
+The Last Unicorn,1982,1.33.00,0.73,Fantasy,Family,G,"Arthur Rankin, Jr., Jules Bass",FALSE
+The Laundromat,2019,1.36.00,0.41,Drama,Comedy,R,Steven Soderbergh,FALSE
+The Lazarus Effect,2015,1.23.00,0.15,Horror,Thriller,PG-13,David Gelb,FALSE
+The League of Extraordinary Gentlemen,2003,1.50.00,0.17,Action,Fantasy,PG-13,Stephen Norrington,FALSE
+The Legend of Black Thunder Mountain,1979,1.30.00,,Adventure,Family,G,Tom Breemer,FALSE
+The Legend of Zorro,2005,2.10.00,0.27,Action,Adventure,PG,Martin Campbell,FALSE
+The Lego Movie,2014,1.40.00,0.96,Comedy,Family,PG,"Phil Lord, Chris Miller",TRUE
+The Lighthouse,2019,1.50.00,0.90,Horror,Drama,R,Robert Eggers,FALSE
+The Lion King,1994,1.29.00,0.93,Musical,Family,G,"Rob Minkoff, Roger Allers",FALSE
+The Lion King 1 ½,2004,1.18.00,0.76,Adventure,Musical,G,Bradley Raymond,FALSE
+The Lion King 2: Simba’s Pride,1998,1.21.00,0.62,Musical,Family,G,Darrell Rooney,FALSE
+The Little Mermaid,1989,1.23.00,0.93,Musical,Family,G,"John Musker, Ron Clements",FALSE
+The Lizzie McGuire Movie,2003,1.51.00,0.40,Teen,Comedy,PG,Jim Fall,FALSE
+The Lord of the Rings,1978,2.12.00,0.51,Fantasy,Adventure,PG,Ralph Bakshi,FALSE
+The Lord of the Rings: The Fellowship of the Ring,2001,2.58.00,0.91,Fantasy,Adventure,PG-13,Peter Jackson,FALSE
+The Lord of the Rings: The Return of the King,2003,3.30.00,0.93,Fantasy,Adventure,PG-13,Peter Jackson,FALSE
+The Lord of the Rings: The Two Towers,2002,2.59.00,0.95,Fantasy,Adventure,PG-13,Peter Jackson,FALSE
+The Love Bug,1968,1.48.00,0.78,Comedy,Family,G,Robert Stevenson,FALSE
+The Luck of the Irish,2001,1.26.00,0.53,Fantasy,Sport,G,Paul Hoen,FALSE
+The Man from Snowy River,1982,1.44.00,0.85,Western,Drama,PG,George T. Miller,FALSE
+The Man in the White Suit,1951,1.25.00,1.00,Comedy,Satire,NR,Alexander Mackendrick,FALSE
+The Man Who Knew Too Much,1956,2.00.00,0.87,Thriller,Suspense,PG,Alfred Hitchcock,FALSE
+The Manchurian Candidate,2004,2.10.00,0.80,Thriller,Political Thriller,R,Jonathan Demme,FALSE
+The Many Saints of Newark,2021,2.00.00,0.72,Crime,Drama,R,Alan Taylor,FALSE
+The Martian,2015,2.24.00,0.91,Sci-Fi,Drama,PG-13,Ridley Scott,TRUE
+The Mask,1994,1.41.00,0.80,Comedy,Fantasy,PG-13,Chuck Russell,FALSE
+The Mask of Zorro,1998,2.17.00,0.83,Adventure,Action,PG-13,Martin Campbell,FALSE
+The Matchmaker,1958,1.50.00,0.59,Romance,Comedy,NR,Joseph Anthony,FALSE
+The Matrix,1999,2.16.00,0.88,Sci-Fi,Action,R,"Lana Wachowski, Lily Wachowski",FALSE
+The Maze Runner,2014,1.53.00,0.65,Sci-Fi,Action,PG-13,Wes Ball,TRUE
+The Mitchells vs. the Machines,2021,1.54.00,0.97,Comedy,Adventure,PG,Michael Rianda,FALSE
+The Mummy,1999,2.04.00,0.61,Adventure,Action,PG-13,Stephen Sommers,FALSE
+The Mummy Returns,2001,2.10.00,0.47,Adventure,Action,PG-13,Stephen Sommers,FALSE
+The Muppet Movie,1979,1.37.00,0.88,Family,Comedy,G,James Frawley,FALSE
+The Muppets Take Manhattan,1984,1.34.00,0.84,Adventure,Comedy,G,Frank Oz,FALSE
+The Music Man,1962,2.31.00,0.94,Musical,Romance,G,Morton DaCosta,FALSE
+The Nativity Story,2006,1.41.00,0.37,Drama,Historical Drama,PG,Catherine Hardwicke,FALSE
+The Nightmare Before Christmas,1993,1.16.00,0.95,Fantasy,Musical,PG,Henry Selick,FALSE
+The Nun,2018,1.36.00,0.25,Horror,Thriller,R,Corin Hardy,FALSE
+The Occupant,2020,1.43.00,0.61,Drama,Thriller,R,"Alex Pastor, David Pastor",FALSE
+The Opportunists,2000,1.30.00,0.54,Drama,Comedy,R,Myles Connell,FALSE
+The Parent Trap,1998,2.08.00,0.86,Comedy,Family,PG,Nancy Meyers,FALSE
+The Parent Trap,1961,2.08.00,0.90,Family,Comedy,G,David Swift,FALSE
+The Patriot,2000,2.55.00,0.62,War,Action,R,Roland Emmerich,FALSE
+The Phantom of the Opera,2004,2.23.00,0.33,Musical,Romance,PG-13,Joel Schumacher,FALSE
+The Pink Panther,2006,1.33.00,0.21,Comedy,Crime,PG,Shawn Levy,FALSE
+The Pirates of Penzance,1983,1.52.00,0.81,Musical,Romance,G,Wilford Leach,FALSE
+The Pirates Who Don’t Do Anything: A VeggieTales Movie,2008,1.26.00,0.43,Family,Comedy,G,Mike Nawrocki,FALSE
+The Polar Express,2004,1.40.00,0.56,Fantasy,Family,G,Robert Zemeckis,FALSE
+The Prince of Egypt,1998,1.39.00,0.80,Musical,Family,PG,"Brenda Chapman, Steve Hickner, Simon Wells",FALSE
+The Princess and the Frog,2009,1.35.00,0.85,Family,Musical,G,"John Musker, Ron Clements",FALSE
+The Princess Bride,1987,1.38.00,0.97,Romance,Adventure,PG,Rob Reiner,FALSE
+The Princess Diaries,2001,1.55.00,0.49,Comedy,Romance,G,Garry Marshall,FALSE
+The Princess Diaries 2: Royal Engagement,2004,1.55.00,0.26,Romance,Comedy,G,Garry Marshall,FALSE
+The Proposal,2009,1.48.00,0.45,Romance,Comedy,PG-13,Anne Fletcher,FALSE
+The Quick and the Dead,1995,1.48.00,0.58,Western,Action,R,Sam Raimi,FALSE
+The Rescuers,1977,1.18.00,0.81,Adventure,Comedy Drama,G,"Wolfgang Reitherman, John Lounsbery, Art Stevens",FALSE
+The Rescuers Down Under,1990,1.17.00,0.71,Adventure,,G,"Mike Gabirel, Hendel Butoy",FALSE
+The Return of Jafar,1994,1.09.00,0.33,Family,Adventure,G,"Tad Stones, Alan Zaslova, Toby Shelton",FALSE
+The Ritual,2017,1.34.00,0.74,Horror,Mystery,R,David Bruckner,FALSE
+The Road to El Dorado,2000,1.29.00,0.48,Adventure,,PG,"Bibo Bergeron, Jeffery Katzenberg, Don Paul",FALSE
+The Rocketeer,1991,1.48.00,0.66,Action,Adventure,PG,Joe Johnston,FALSE
+The Rocky Horror Picture Show,1975,1.38.00,0.78,Musical,Horror,R,Jim Sharman,FALSE
+The Rookie,2002,2.08.00,0.84,Sport,Drama,G,John Lee Hancock,FALSE
+The Room,2003,1.31.00,0.26,Drama,Romance,R,Tommy Wiseau,FALSE
+The Sandlot,1993,1.41.00,0.64,Family,Comedy,PG,David Mickey Evans,FALSE
+The Santa Clause 2,2002,1.44.00,0.56,Comedy,Drama,G,Michael Lembeck,FALSE
+The Scarlet Pimpernel,1982,2.22.00,0.89,Adventure,Romance,NR,Clive Donner,FALSE
+The Scent of a Woman,1992,2.37.00,0.89,Drama,,R,Martin Brest,FALSE
+The Secret Garden,1993,1.41.00,0.88,Family,Drama,G,Agnieszka Holand,FALSE
+The Secret Life of Walter Mitty,2013,1.54.00,0.52,Adventure,Comedy Drama,PG,Ben Stiller,FALSE
+The Secret Life of Walter Mitty,1947,1.50.00,0.75,Comedy,Romance,PG,Norman Z. McLeod,FALSE
+The Secret of NIMH,1982,1.22.00,0.93,Family,Fantasy,G,Don Bluth,FALSE
+The Secret World of Arrietty,2010,1.34.00,0.94,Fantasy,Family,G,Hiromasa Yonebayashi,FALSE
+The Shaggy Dog,1959,1.44.00,0.68,Comedy,Family,G,Charles Barton,FALSE
+The Shop Around the Corner,1940,1.37.00,1.00,Romance,Comedy,NR,Ernst Lubitsch,FALSE
+The Simpsons Movie,2007,1.27.00,0.87,Comedy,Animation,PG-13,David Silverman,FALSE
+The Sound of Music,1965,2.54.00,0.83,Musical,Drama,G,Robert Wise,FALSE
+The Spy Next Door,2010,1.34.00,0.12,Comedy,Action,PG,Brian Levant,FALSE
+The Stepford Wives,2004,1.33.00,0.26,Sci-Fi,Comedy,PG-13,Frank Oz,FALSE
+The Suicide Squad,2021,2.12.00,0.90,Action,Adventure,R,James Gunn,FALSE
+The Sword in the Stone,1963,1.19.00,0.66,Musical,Fantasy,G,Wolfgang Reitherman,FALSE
+The Terminator,1984,1.47.00,1.00,Sci-Fi,Action,R,James Cameron,FALSE
+The Texas Chainsaw Massacre,2005,1.38.00,0.37,Horror,Slasher,R,Marcus Nispel,FALSE
+The Thief of Baghdad,1940,1.46.00,1.00,Fantasy,Adventure,NR,"Ludwig Berger, Zoltan Korda, Tim Whelan, Michael Powell, William Cameron Menzies",FALSE
+The Thing,1982,1.49.00,0.83,Horror,Sci-fi,R,John Carpenter,TRUE
+The Thirteenth Year,1999,1.35.00,0.54,Family,Comedy,G,Duwayne Dunham,FALSE
+The Three Musketeers,1973,1.45.00,0.87,Adventure,Action,PG,Richard Lester,FALSE
+The Tigger Movie,2000,1.17.00,0.62,Comedy,Drama,G,Jun Falkenstein,FALSE
+The Tourist,2010,1.43.00,0.21,Thriller,Action,PG-13,Florian Henckel von Donnersmarck,FALSE
+The Tramp,1915,00.32.00,0.71,Comedy,Silent,G,Charlie Chaplin,FALSE
+The Trouble With Angels,1966,1.52.00,0.75,Comedy,Religious,PG,Ida Lupino,FALSE
+The Truman Show,1998,1.47.00,0.95,Drama,Sci-fi,PG,Peter Weir,FALSE
+The Twilight Saga: Breaking Dawn – Part 1,2011,1.48.00,0.25,Fantasy,Romance,PG-13,Bill Condon,FALSE
+The Twilight Saga: Breaking Dawn – Part 2,2012,1.55.00,0.49,Fantasy,Romance,PG-13,Bill Condon,FALSE
+The Twilight Saga: Eclipse,2010,2.04.00,0.48,Fantasy,Romance,PG-13,Davis Slade,FALSE
+The Twilight Saga: New Moon,2009,2.10.00,0.29,Fantasy,Romance,PG-13,Chris Weitz,FALSE
+The Visit,2015,1.34.00,0.68,Horror,Thriller,PG-13,M. Night Shyamalan,TRUE
+The Void,2016,1.30.00,0.78,Horror,Indie,NR,"Steven Konstanski, Jeremy Gillespie",FALSE
+The Wailing,2016,2.36.00,0.99,Horror,Thriller,NR,Na Hong-jin,FALSE
+The Weather Man,2005,1.42.00,0.59,Comedy,Drama,R,Gore Verbinski,FALSE
+The Wedding Date,2004,1.30.00,0.11,Romance,Comedy,PG-13,Clare Kilner,FALSE
+The Wicker Man,2006,1.46.00,0.15,Horror,Mystery,PG-13,Neil LaBute,FALSE
+The Witch,2015,1.32.00,0.90,Horror,,R,Robert Eggers,FALSE
+The Wizard of Oz,1939,1.52.00,0.98,Fantasy,Musical,G,Victor Fleming,FALSE
+The Wolverine,2013,2.06.00,0.71,Action,Sci-fi,PG-13,James Mangold,FALSE
+The Woman in Black 2: Angel of Death,2014,1.38.00,0.23,Horror,Drama,PG-13,Tom Harper,TRUE
+The Woman in the Window,2021,1.40.00,0.26,Mystery,Thriller,R,Joe Wright,FALSE
+The Worlds End,2013,1.49.00,0.89,Comedy,Sci-fi,R,Edgar Wright,FALSE
+The Yearling,1946,2.08.00,1.00,Drama,Family,G,Clarence Brown,FALSE
+They Call Me Trinity,1970,1.55.00,0.83,Western,Comedy,G,Enzo Barboni,FALSE
+Things Heard and Seen,2021,2.01.00,0.39,Horror,Thriller,NR,"Shari Springer Berman, Robert Pulcini",FALSE
+Thomas and the Magic Railroad,2000,1.29.00,0.21,Family,Adventure,G,Britt Allcroft,FALSE
+Thor,2011,1.54.00,0.77,Fantasy,Action,PG-13,Kenneth Branagh,FALSE
+Thor: Ragnarok,2017,2.10.00,0.93,Action,Sci-fi,PG-13,Taika Waititi,FALSE
+Thor: The Dark World,2013,1.52.00,0.66,Action,Adventure,PG-13,Alan Taylor,FALSE
+Three Coins in the Fountain,1954,1.42.00,0.60,Romance,Drama,G,Jean Negulesco,FALSE
+Thumbelina,1994,1.26.00,0.38,Adventure,Fantasy,G,"Don Bluth, Gary Goldman",FALSE
+Titanic,1997,3.14.00,0.75,Romance,Drama,PG-13,James Cameron,FALSE
+To Catch a Thief,1955,1.46.00,0.94,Mystery,Thriller,PG,Alfred Hitchcock,FALSE
+Tooth Fairy,2010,1.41.00,0.17,Family,Fantasy,PG,Michael Lembeck,FALSE
+Total Recall,2012,2.10.00,0.31,Action,Sci-fi,PG-13,Len Wiseman,FALSE
+Total Recall,1990,1.53.00,0.82,Sci-Fi,,R,Paul Verhoeven,FALSE
+Toy Story,1995,1.21.00,1.00,Family,Comedy,G,John Lasseter,FALSE
+Toy Story 2,1999,1.35.00,1.00,Adventure,Family,G,John Lasseter,FALSE
+Toy Story 3,2010,1.43.00,0.98,Adventure,Family,G,Lee Unkrich,FALSE
+Train to Busan,2016,1.58.00,0.94,Horror,Action,NR,Yeon Sang-ho,FALSE
+Transformers,2007,2.24.00,0.58,Action,Sci-fi,PG-13,Michael Bay,FALSE
+Trapped in Paradise,1994,1.51.00,0.05,Comedy,Romance,PG-13,George Gallo,FALSE
+Treasure Planet,2002,1.35.00,0.69,Sci-Fi,Adventure,PG,"John Musker, Ron Clements",FALSE
+Trick R’ Treat,2007,1.40.00,0.81,Horror,Thriller,R,Michael Dougherty,FALSE
+True Grit,2010,1.50.00,0.95,Western,Drama,PG-13,Ethan Coen,FALSE
+Tucker & Dale vs. Evil,2010,1.26.00,0.85,Horror,Comedy,R,Eli Craig,FALSE
+Twelfth Night or What You Will,1996,2.14.00,0.76,Romance,Comedy,PG,Trevor Nunn,FALSE
+Twilight,2008,2.02.00,0.49,Romance,Fantasy,PG-13,Catherine Hardwicke,FALSE
+Under the Shadow,2016,1.24.00,0.99,Horror,Thriller,PG-13,Babak Anvari,FALSE
+Underdog,2007,1.24.00,0.15,Superhero,Comedy,PG,Frederik Du Chau,FALSE
+Underwater,2020,1.35.00,0.48,Horror,Sci-fi,PG-13,William Eubank,FALSE
+Unfriended,2014,1.23.00,0.61,Horror,Thriller,R,Levan Gabriadze,TRUE
+Up,2009,1.36.00,0.98,Adventure,Family,PG,Pete Docter,FALSE
+Up in the Air,2009,1.49.00,0.90,Romance,Drama,R,Jason Reitman,FALSE
+V for Vendetta,2005,2.12.00,0.73,Action,Sci-fi,R,James McTeigue,FALSE
+Vampire’s Kiss,1988,1.43.00,0.61,Horror,Comedy,R,Robert Bierman,FALSE
+Van Helsing,2004,2.11.00,0.24,Horror,Fantasy,PG-13,Stephen Sommers,FALSE
+Velvet Buzzsaw,2019,1.53.00,0.61,Horror,Drama,R,Dan Gilroy,FALSE
+Vengeance: A Love Story,2017,1.39.00,0.27,Action,Thriller,R,Johnny Martin,FALSE
+Venom,2018,1.52.00,0.30,Action,Sci-fi,PG-13,Ruben Flesicher,TRUE
+Veronica,2017,1.45.00,0.88,Horror,Drama,R,Paco Plaza,FALSE
+Vertical Limit,2000,2.04.00,0.48,Adventure,Thriller,PG-13,Martin Campbell,FALSE
+Wall-E,2008,1.38.00,0.95,Family,Adventure,G,Andrew Stanton,TRUE
+War Horse,2011,2.26.00,0.75,War,Drama,PG-13,Steven Spielberg,FALSE
+Warcraft,2016,2.03.00,0.29,Fantasy,Action,PG-13,Duncan Jones,FALSE
+Warm Bodies,2013,1.37.00,0.81,Romance,Horror,PG-13,Jonathan Levine,FALSE
+We’re the Millers,2013,1.50.00,0.49,Comedy,Crime,R,Rawson Marshall Thurber,FALSE
+What a Girl Wants,2003,1.45.00,0.36,Teen,Comedy,PG,Dennie Gordon,FALSE
+"What’s Up, Doc?",1972,1.34.00,0.89,Comedy,Romance,G,Peter Bogdanovich,FALSE
+When in Rome,2010,1.31.00,0.17,Romance,Comedy,PG-13,Mark Steven Johnson,FALSE
+Where the Red Fern Grows,1974,1.37.00,0.75,Drama,Adaptation,G,Norman Tokar,FALSE
+White Chicks,2004,1.49.00,0.15,Comedy,Crime,PG-13,Keenen Ivory Wayans,FALSE
+White Christmas,1954,2.00.00,0.77,Musical,Romance,NR,Michael Curtiz,FALSE
+Who Framed Roger Rabbit?,1988,1.44.00,0.97,Comedy,Fantasy,PG,Robert Zemeckis,FALSE
+Wild at Heart,1990,2.04.00,0.67,Crime,Drama,R,David Lynch,FALSE
+Wild Wild West,1999,1.47.00,0.16,Western,Action,PG-13,Barry Sonnenfield,FALSE
+Wildling,2018,1.32.00,0.70,Horror,Fantasy,R,Friedrich Bohm,FALSE
+Willy Wonka and the Chocolate Factory,1971,1.38.00,0.91,Fantasy,Family,G,Mel Stuart,FALSE
+Withnail and I,1987,1.47.00,0.92,Comedy,Dark Comedy,R,Bruce Robinson,FALSE
+Wonder Woman,2017,2.29.00,0.93,Action,Fantasy,PG-13,Patty Jenkins,TRUE
+World’s End,2013,1.49.00,0.89,Comedy,Sci-fi,R,Edgar Wright,FALSE
+Wreck It Ralph,2012,1.48.00,0.87,Family,Comedy,PG,Rich Moore,FALSE
+Wyrmwood,2014,1.38.00,0.92,Horror,Action,NR,Kiah Roache-Turner,FALSE
+X-Men,2000,1.44.00,0.82,Action,Sci-fi,PG-13,Bryan Singer,FALSE
+X-Men Origins: Wolverine,2009,1.59.00,0.38,Action,Sci-fi,PG-13,Gavin Hood,FALSE
+X-Men: The Last Stand,2006,1.44.00,0.57,Adventure,Action,PG-13,Brett Ratner,FALSE
+Yes Man,2008,1.44.00,0.46,Comedy,Romance,PG-13,Peyton Reed,FALSE
+You Can’t Take it With You,1938,2.06.00,0.95,Comedy,Romance,NR,Frank Capra,FALSE
+Young Frankenstein,1974,1.46.00,0.94,Horror,Comedy,PG,Mel Brooks,FALSE
+Zathura: A Space Adventure,2005,1.42.00,0.76,Adventure,Family,PG,Jon Favreau,FALSE
+Zeus and Roxanne,1997,1.42.00,0.40,Family,Adventure,PG,George T. Miller,FALSE
+Ziegfeld Girl,1941,2.12.00,0.78,Musical,Romance,NR,Robert Z. Leonard,FALSE
+Zodiac,2007,2.37.00,0.90,Thriller,Mystery,R,David Fincher,FALSE
+Zombieland,2009,1.21.00,0.89,Horror,Comedy,R,Ruben Flesicher,FALSE
+Zoolander,2001,1.29.00,0.64,Comedy,,PG-13,Ben Stiller,FALSE
+Zootopia,2016,1.48.00,0.98,Family,Adventure,PG,"Rich Moore, Byron Howard",TRUE
