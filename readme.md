@@ -23,7 +23,7 @@ I included a Boolean column that indicated whether I had seen the movie in theat
     I used head(), isnull(), info(), len(), describe(), nunique(), and corr().
 
     5. Do 5 basic calculations
-    I used mean(), mode(), 
+    I used mean(), mode(), and sum().
 
     6. Make 2 basic plots/visualizations
     I made multiple plots -- including scatterplots and histograms.
