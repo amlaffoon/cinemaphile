@@ -1,29 +1,36 @@
 # Cinemaphile
 
 ### Project Description
-I hand-entered data about my movie-watching habits, most of which was pulled from Netflix (they provide your viewing history in a CSV or Excel file). I was interested in different patterns, such as the average length of the movies I watched, the director(s), genre/subgenre, and relationships between this categories.
+I hand-entered data about my movie-watching habits, most of which was pulled from Netflix (they provide your viewing history in a CSV or Excel file). I was interested in different patterns, such as the average length of the movies I watched, the director(s), genre/subgenre, and relationships between these categories.
+
+Along with some basic analysis of this data, I created a decision tree classifier that predicts whether or not I would watch a movie when it's released in theaters, based on my past viewing history. It was trained on the movies in the dataframe released in the year 2000 and onwards, since I could reasonable assume I was old enough to have gone to a movie theater then. Movies before that time were excluded so as not to skew the results.
+
+I included a Boolean column that indicated whether I had seen the movie in theaters (True) or not (False) to use as the "target" for the decision tree. The other columns were the "features". [W3Schools, Decision Tree](https://www.w3schools.com/python/python_ml_decision_tree.asp)
+
 
 ## Features from CodeLou Data Analysis 1 Project Requirements:
 #
 
-    1. Minimum of 5 Github commits
 
-    2. Read in data from a local csv, excel file, json, or any other file type. 
-    I am reading in from a CSV file.
+    1. Minimum of 5 commits
 
-    3. Use built-in pandas or numpy functions to do things like remove 0’s and null values where they don’t belong in your dataset. 
-    I replaced null/missing values and removed incorrect data using fillna(), astype(), and replace().
+    2. Read in data from a local CSV
 
-    4. Use at least 5 different built-in Python functions to find out something about your data. 
+    3. Use built-in pandas/numpy functions to remove 0/null values
+    I used fillna(), astype(), and replace().
+
+    4. use at least 5 different built-in functions to find out something about your data.
     I used head(), isnull(), info(), len(), describe(), nunique(), and corr().
 
-    5. Do 5 basic calculations with Pandas, like finding the sum(), median(), mean(), or mode() of a column. 
-    I intend to find the total and the average runtime of all movies watched, the average rating of the movies, the year containing the most movies I watched, etc.
+    5. Do 5 basic calculations
+    I used mean(), mode(), 
 
-    6. Make 2 basic plots with matplotlib, seaborn, or any other kind of visualization library that you think looks interesting. 
+    6. Make 2 basic plots/visualizations
     I made multiple plots -- including scatterplots and histograms.
 
-    7. Write markdown cells in Jupyter explaining your thought process and code.
+    7. Write custom functions to operate on your data
+
+    8. Write markdown to explain your thought process and code
 
 ## How to run
 
