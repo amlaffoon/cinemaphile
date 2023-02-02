@@ -66,3 +66,13 @@ Rating - the age rating (if no MPA/MPAA rating available, "NR" or Not Rated is g
 Director - the movie's director(s)
 
 Theatres - a boolean reporting whether or not I watched the movie when it was released in theatres
+
+
+### Things to revisit:
+-I've added new movies to my "database" that I'd like to add in this project
+
+-Learn how to use additional criteria to make a recommendation engine for myself
+
+-Find more patterns in the data to determine how I choose movies and why I like them
+
+-Create SQL database and an interface for easily updating the db with new movies over time
